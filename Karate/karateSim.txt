@@ -1,0 +1,138 @@
+[
+  {
+    "Algorithm": "IMM",
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "Input": "../karate1.edgelist",
+    "K": 15,
+    "Seeds": [
+      9,
+      24,
+      13,
+      19,
+      7,
+      32,
+      30,
+      29,
+      10,
+      22,
+      11,
+      12,
+      5,
+      6,
+      1
+    ],
+    "Simulations": [
+      [
+        32,
+        3
+      ],
+      [
+        31,
+        4
+      ]
+    ]
+  },
+  {
+    "Algorithm": "IMM",
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "Input": "../karate1.edgelist",
+    "K": 15,
+    "Seeds": [
+      9,
+      24,
+      13,
+      19,
+      7,
+      32,
+      30,
+      29,
+      10,
+      22,
+      11,
+      12,
+      5,
+      6,
+      1
+    ],
+    "Simulations": [
+      [
+        33,
+        3
+      ],
+      [
+        31,
+        3
+      ]
+    ]
+  },
+  {
+    "Algorithm": "IMM",
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "Input": "../karate1.edgelist",
+    "K": 15,
+    "Seeds": [
+      9,
+      24,
+      13,
+      19,
+      7,
+      32,
+      30,
+      29,
+      10,
+      22,
+      11,
+      12,
+      5,
+      6,
+      1
+    ],
+    "Simulations": [
+      [
+        31,
+        3
+      ],
+      [
+        33,
+        3
+      ]
+    ]
+  },
+  {
+    "Algorithm": "IMM",
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "Input": "../karate1.edgelist",
+    "K": 15,
+    "Seeds": [
+      9,
+      24,
+      13,
+      19,
+      7,
+      32,
+      30,
+      29,
+      10,
+      22,
+      11,
+      12,
+      5,
+      6,
+      1
+    ],
+    "Simulations": [
+      [
+        33,
+        3
+      ],
+      [
+        33,
+        3
+      ]
+    ]
+  }
+]

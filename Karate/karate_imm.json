@@ -1,0 +1,38 @@
+[
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 284.74,
+    "GenerateRRRSets": 0.3443,
+    "Input": "../karate.edgelist",
+    "K": 5,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 8,
+    "NumWalkWorkers": 8,
+    "Output": "karate_imm.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 16780,
+    "Seeds": [
+      0,
+      1,
+      24,
+      26,
+      4
+    ],
+    "Theta": 1596,
+    "ThetaEstimation": 146.4873,
+    "ThetaEstimationGenerateRRR": [
+      0.376
+    ],
+    "ThetaEstimationMostInfluential": [
+      145.9798
+    ],
+    "ThetaPrimeDeltas": [
+      716
+    ],
+    "Total": 431.9864
+  }
+]

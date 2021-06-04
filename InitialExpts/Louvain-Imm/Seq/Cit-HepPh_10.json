@@ -1,0 +1,3232 @@
+[
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      0.2562,
+      0.5284
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 15.1515,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [
+      0.30189999999999995,
+      0.6195
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 8583,
+    "ThetaEstimation": 33.2633,
+    "ThetaEstimationGenerateRRR": [
+      15.8818,
+      15.2646
+    ],
+    "ThetaEstimationMostInfluential": [
+      0.739,
+      1.3123
+    ],
+    "ThetaPrimeDeltas": [
+      2741,
+      2741
+    ],
+    "Total": 1714.1399
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      0.9106
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 144.5111,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [
+      0.30639999999999995
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 5958,
+    "ThetaEstimation": 133.0617,
+    "ThetaEstimationGenerateRRR": [
+      131.5353
+    ],
+    "ThetaEstimationMostInfluential": [
+      1.521
+    ],
+    "ThetaPrimeDeltas": [
+      2892
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      0.5959,
+      1.4821
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 26.066,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [
+      0.2487,
+      0.5097999999999999
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 7513,
+    "ThetaEstimation": 76.4684,
+    "ThetaEstimationGenerateRRR": [
+      36.1632,
+      36.9292
+    ],
+    "ThetaEstimationMostInfluential": [
+      1.0781,
+      2.2883
+    ],
+    "ThetaPrimeDeltas": [
+      2787,
+      2787
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      0.8505
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 66.5758,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [
+      0.3054
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 6157,
+    "ThetaEstimation": 54.3517,
+    "ThetaEstimationGenerateRRR": [
+      52.9529
+    ],
+    "ThetaEstimationMostInfluential": [
+      1.3948
+    ],
+    "ThetaPrimeDeltas": [
+      2776
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      1.0308
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 107.7648,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [
+      0.2915
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 5224,
+    "ThetaEstimation": 132.6571,
+    "ThetaEstimationGenerateRRR": [
+      131.039
+    ],
+    "ThetaEstimationMostInfluential": [
+      1.6128
+    ],
+    "ThetaPrimeDeltas": [
+      2841
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      1.1378
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 159.2986,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [
+      0.353
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 5833,
+    "ThetaEstimation": 169.4524,
+    "ThetaEstimationGenerateRRR": [
+      167.5859
+    ],
+    "ThetaEstimationMostInfluential": [
+      1.8605
+    ],
+    "ThetaPrimeDeltas": [
+      2963
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      0.5713,
+      1.1945
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 26.5992,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [
+      0.25279999999999997,
+      0.5486
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 7577,
+    "ThetaEstimation": 79.4193,
+    "ThetaEstimationGenerateRRR": [
+      37.4389,
+      38.8786
+    ],
+    "ThetaEstimationMostInfluential": [
+      1.0718,
+      2.0219
+    ],
+    "ThetaPrimeDeltas": [
+      2803,
+      2804
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      0.4802,
+      1.0885
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 15.7649,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [
+      0.22679999999999997,
+      0.46370000000000006
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 6283,
+    "ThetaEstimation": 66.0744,
+    "ThetaEstimationGenerateRRR": [
+      30.7177,
+      32.7874
+    ],
+    "ThetaEstimationMostInfluential": [
+      0.8657,
+      1.6971
+    ],
+    "ThetaPrimeDeltas": [
+      2552,
+      2552
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      0.196,
+      0.4078
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 10.9246,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [
+      0.2138,
+      0.42319999999999997
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 6800,
+    "ThetaEstimation": 27.9375,
+    "ThetaEstimationGenerateRRR": [
+      12.7852,
+      13.7331
+    ],
+    "ThetaEstimationMostInfluential": [
+      0.4945,
+      0.9181
+    ],
+    "ThetaPrimeDeltas": [
+      2403,
+      2403
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      0.2979,
+      0.6701
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 9.4894,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [
+      0.22230000000000003,
+      0.4448
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 6789,
+    "ThetaEstimation": 38.96,
+    "ThetaEstimationGenerateRRR": [
+      18.0794,
+      18.8864
+    ],
+    "ThetaEstimationMostInfluential": [
+      0.6926,
+      1.2957
+    ],
+    "ThetaPrimeDeltas": [
+      2717,
+      2718
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      0.142
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 13.3418,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [
+      0.1894
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 5701,
+    "ThetaEstimation": 9.1854,
+    "ThetaEstimationGenerateRRR": [
+      8.7707
+    ],
+    "ThetaEstimationMostInfluential": [
+      0.4122
+    ],
+    "ThetaPrimeDeltas": [
+      2405
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      0.546,
+      1.0669
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 24.4093,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [
+      0.256,
+      0.5219
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 7755,
+    "ThetaEstimation": 65.7139,
+    "ThetaEstimationGenerateRRR": [
+      32.8251,
+      30.0623
+    ],
+    "ThetaEstimationMostInfluential": [
+      1.0104,
+      1.8104
+    ],
+    "ThetaPrimeDeltas": [
+      2787,
+      2788
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      0.185
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 19.1407,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [
+      0.1456
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 4367,
+    "ThetaEstimation": 21.7198,
+    "ThetaEstimationGenerateRRR": [
+      21.3181
+    ],
+    "ThetaEstimationMostInfluential": [
+      0.3989
+    ],
+    "ThetaPrimeDeltas": [
+      2239
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      0.0413
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 1.4002,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [
+      0.0825
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 2879,
+    "ThetaEstimation": 1.7272,
+    "ThetaEstimationGenerateRRR": [
+      1.5815
+    ],
+    "ThetaEstimationMostInfluential": [
+      0.1434
+    ],
+    "ThetaPrimeDeltas": [
+      1591
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      0.018
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.1625,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [
+      0.0381
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 1449,
+    "ThetaEstimation": 0.4602,
+    "ThetaEstimationGenerateRRR": [
+      0.3912
+    ],
+    "ThetaEstimationMostInfluential": [
+      0.0672
+    ],
+    "ThetaPrimeDeltas": [
+      1021
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      0.0613,
+      0.0766
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 2.3101,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [
+      0.1902,
+      0.34400000000000003
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 7629,
+    "ThetaEstimation": 4.3227,
+    "ThetaEstimationGenerateRRR": [
+      1.8515,
+      1.7119
+    ],
+    "ThetaEstimationMostInfluential": [
+      0.2929,
+      0.4625
+    ],
+    "ThetaPrimeDeltas": [
+      2128,
+      2128
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      0.0338,
+      0.1831
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 1.9614,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [
+      0.1571,
+      0.3063
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 7284,
+    "ThetaEstimation": 3.1483,
+    "ThetaEstimationGenerateRRR": [
+      1.2022,
+      1.2045
+    ],
+    "ThetaEstimationMostInfluential": [
+      0.2194,
+      0.5186
+    ],
+    "ThetaPrimeDeltas": [
+      1971,
+      1971
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0003,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0004,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      0.0046
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0295,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [
+      0.005999999999999999
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 416,
+    "ThetaEstimation": 0.0559,
+    "ThetaEstimationGenerateRRR": [
+      0.0393
+    ],
+    "ThetaEstimationMostInfluential": [
+      0.0148
+    ],
+    "ThetaPrimeDeltas": [
+      232
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      0.0064
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0435,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [
+      0.010399999999999998
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 586,
+    "ThetaEstimation": 0.0861,
+    "ThetaEstimationGenerateRRR": [
+      0.0618
+    ],
+    "ThetaEstimationMostInfluential": [
+      0.0227
+    ],
+    "ThetaPrimeDeltas": [
+      365
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      0.0021
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0233,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [
+      0.0026
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 307,
+    "ThetaEstimation": 0.0315,
+    "ThetaEstimationGenerateRRR": [
+      0.0222
+    ],
+    "ThetaEstimationMostInfluential": [
+      0.0076
+    ],
+    "ThetaPrimeDeltas": [
+      148
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      0.0086
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0469,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [
+      0.0169
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 772,
+    "ThetaEstimation": 0.1163,
+    "ThetaEstimationGenerateRRR": [
+      0.0807
+    ],
+    "ThetaEstimationMostInfluential": [
+      0.034
+    ],
+    "ThetaPrimeDeltas": [
+      514
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      0.0018
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0227,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [
+      0.0028000000000000004
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 307,
+    "ThetaEstimation": 0.0425,
+    "ThetaEstimationGenerateRRR": [
+      0.0336
+    ],
+    "ThetaEstimationMostInfluential": [
+      0.0074
+    ],
+    "ThetaPrimeDeltas": [
+      148
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      0.0033
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.028,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [
+      0.020200000000000003
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 370,
+    "ThetaEstimation": 0.0645,
+    "ThetaEstimationGenerateRRR": [
+      0.036
+    ],
+    "ThetaEstimationMostInfluential": [
+      0.0271
+    ],
+    "ThetaPrimeDeltas": [
+      198
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0003,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0003,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0003,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0003,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0004,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0002,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      0.0022
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0253,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [
+      0.0023
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 307,
+    "ThetaEstimation": 0.0334,
+    "ThetaEstimationGenerateRRR": [
+      0.0248
+    ],
+    "ThetaEstimationMostInfluential": [
+      0.0072
+    ],
+    "ThetaPrimeDeltas": [
+      148
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0004,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0004,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      0.0018
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0219,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [
+      0.0022
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 307,
+    "ThetaEstimation": 0.03,
+    "ThetaEstimationGenerateRRR": [
+      0.0219
+    ],
+    "ThetaEstimationMostInfluential": [
+      0.0068
+    ],
+    "ThetaPrimeDeltas": [
+      148
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0003,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0003,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0003,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0002,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0002,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0003,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      0.004
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0346,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [
+      0.005699999999999999
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 466,
+    "ThetaEstimation": 0.0597,
+    "ThetaEstimationGenerateRRR": [
+      0.0439
+    ],
+    "ThetaEstimationMostInfluential": [
+      0.0144
+    ],
+    "ThetaPrimeDeltas": [
+      271
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0003,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0003,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0003,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0004,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0003,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0002,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0003,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0004,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      0.0037
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0333,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [
+      0.0052
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 416,
+    "ThetaEstimation": 0.0541,
+    "ThetaEstimationGenerateRRR": [
+      0.0394
+    ],
+    "ThetaEstimationMostInfluential": [
+      0.0133
+    ],
+    "ThetaPrimeDeltas": [
+      232
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0003,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0005,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0003,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0003,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      0.0038
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0334,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [
+      0.004699999999999999
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 416,
+    "ThetaEstimation": 0.0497,
+    "ThetaEstimationGenerateRRR": [
+      0.0358
+    ],
+    "ThetaEstimationMostInfluential": [
+      0.0124
+    ],
+    "ThetaPrimeDeltas": [
+      232
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      0.003
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0266,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [
+      0.0037
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 370,
+    "ThetaEstimation": 0.046,
+    "ThetaEstimationGenerateRRR": [
+      0.0348
+    ],
+    "ThetaEstimationMostInfluential": [
+      0.0099
+    ],
+    "ThetaPrimeDeltas": [
+      198
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      0.0027
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0286,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [
+      0.0032999999999999995
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 370,
+    "ThetaEstimation": 0.0391,
+    "ThetaEstimationGenerateRRR": [
+      0.0287
+    ],
+    "ThetaEstimationMostInfluential": [
+      0.0089
+    ],
+    "ThetaPrimeDeltas": [
+      198
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0003,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0003,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0003,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0004,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0003,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0003,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0003,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0004,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      0.0019
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0211,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [
+      0.0026
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 307,
+    "ThetaEstimation": 0.0272,
+    "ThetaEstimationGenerateRRR": [
+      0.0187
+    ],
+    "ThetaEstimationMostInfluential": [
+      0.0071
+    ],
+    "ThetaPrimeDeltas": [
+      148
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0003,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0004,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0003,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0003,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0004,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0002,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0003,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0003,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0004,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0003,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0002,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0004,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0003,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0003,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0003,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0003,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      0.0021
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0257,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [
+      0.0022
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 307,
+    "ThetaEstimation": 0.0304,
+    "ThetaEstimationGenerateRRR": [
+      0.022
+    ],
+    "ThetaEstimationMostInfluential": [
+      0.0071
+    ],
+    "ThetaPrimeDeltas": [
+      148
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0003,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0003,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0003,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0003,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0003,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0004,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0003,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0004,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0003,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0004,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0003,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0003,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      0.0017
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0248,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [
+      0.0027
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 307,
+    "ThetaEstimation": 0.0275,
+    "ThetaEstimationGenerateRRR": [
+      0.0191
+    ],
+    "ThetaEstimationMostInfluential": [
+      0.007
+    ],
+    "ThetaPrimeDeltas": [
+      148
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0003,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0003,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0003,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0003,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      0.0016
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0205,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [
+      0.0025
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 307,
+    "ThetaEstimation": 0.0267,
+    "ThetaEstimationGenerateRRR": [
+      0.0187
+    ],
+    "ThetaEstimationMostInfluential": [
+      0.0068
+    ],
+    "ThetaPrimeDeltas": [
+      148
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0003,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0003,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0003,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0003,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0003,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0002,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0004,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0003,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0003,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0003,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0003,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0003,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0003,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0002,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0003,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0003,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0003,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0003,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      0.0017
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0219,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [
+      0.0024
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 307,
+    "ThetaEstimation": 0.028,
+    "ThetaEstimationGenerateRRR": [
+      0.0197
+    ],
+    "ThetaEstimationMostInfluential": [
+      0.0069
+    ],
+    "ThetaPrimeDeltas": [
+      148
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0003,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0004,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0003,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0002,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 0.0003,
+    "Input": "Cit-HepPh.txt",
+    "K": 10,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      1256,
+      24918,
+      6535,
+      19979,
+      29781,
+      26907,
+      15025,
+      16322,
+      32617,
+      29019
+    ],
+    "Theta": 0,
+    "ThetaEstimation": 0.0003,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  }
+]

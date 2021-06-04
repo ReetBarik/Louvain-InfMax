@@ -1,0 +1,5 @@
+./driverForGraphClustering -f 14 -c 1 -m 50 -d 0.0000005 -o karate.edgelist
+
+./build/release/tools/imm -i ../karate.edgelist -k 5 -p -d IC -e 0.25 -o karate_imm.json
+
+./build/release/tools/louvain-imm -i ../karate.edgelist -k 5 -p -d IC -e 0.25 --community-map ../karate.edgelist_clustInfo -o karate_imm_c.json

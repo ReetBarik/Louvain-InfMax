@@ -1,0 +1,48 @@
+[
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 1747.3549,
+    "GenerateRRRSets": 340.0844,
+    "Input": "Cit-HepPh.txt",
+    "K": 15,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 8,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_15.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 145790040,
+    "Seeds": [
+      29781,
+      23217,
+      30856,
+      24156,
+      32617,
+      19979,
+      30047,
+      34312,
+      28814,
+      29019,
+      34315,
+      34391,
+      32557,
+      28388,
+      33386
+    ],
+    "Theta": 10853,
+    "ThetaEstimation": 1156.1652,
+    "ThetaEstimationGenerateRRR": [
+      332.0007
+    ],
+    "ThetaEstimationMostInfluential": [
+      824.055
+    ],
+    "ThetaPrimeDeltas": [
+      5186
+    ],
+    "Total": 3245.0514
+  }
+]
