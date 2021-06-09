@@ -1,0 +1,117 @@
+[
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      9.7274
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 1529.9006,
+    "Input": "Cit-HepTh.txt",
+    "K": 20,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepTh_2_20.json",
+    "Pivoting": [
+      1.0402999999999998
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      17060,
+      23346,
+      23202,
+      22793,
+      24192,
+      23162,
+      4121,
+      24223,
+      24237,
+      23651,
+      24059,
+      23852,
+      23475,
+      24188,
+      618,
+      24070,
+      23744,
+      23814,
+      23203,
+      23555
+    ],
+    "Theta": 10482,
+    "ThetaEstimation": 1977.1245,
+    "ThetaEstimationGenerateRRR": [
+      1964.8526
+    ],
+    "ThetaEstimationMostInfluential": [
+      12.2241
+    ],
+    "ThetaPrimeDeltas": [
+      5877
+    ],
+    "Total": 3998.5506
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      1.2447,
+      2.7203
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 107.1714,
+    "Input": "Cit-HepTh.txt",
+    "K": 20,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepTh_2_20.json",
+    "Pivoting": [
+      1.3740000000000003,
+      3.0051000000000005
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      17060,
+      23346,
+      23202,
+      22793,
+      24192,
+      23162,
+      4121,
+      24223,
+      24237,
+      23651,
+      24059,
+      23852,
+      23475,
+      24188,
+      618,
+      24070,
+      23744,
+      23814,
+      23203,
+      23555
+    ],
+    "Theta": 19657,
+    "ThetaEstimation": 180.4779,
+    "ThetaEstimationGenerateRRR": [
+      84.7254,
+      85.793
+    ],
+    "ThetaEstimationMostInfluential": [
+      3.3329,
+      6.6117
+    ],
+    "ThetaPrimeDeltas": [
+      5833,
+      5833
+    ],
+    "Total": 0.0
+  }
+]

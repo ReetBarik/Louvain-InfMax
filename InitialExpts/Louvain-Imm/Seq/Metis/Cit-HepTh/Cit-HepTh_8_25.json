@@ -1,0 +1,502 @@
+[
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      0.1643,
+      0.3014
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 9.6266,
+    "Input": "Cit-HepTh.txt",
+    "K": 25,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepTh_8_25.json",
+    "Pivoting": [
+      1.4385999999999999,
+      3.1073999999999997
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      15939,
+      23926,
+      22949,
+      23203,
+      21692,
+      23475,
+      17228,
+      23163,
+      23814,
+      23738,
+      23962,
+      23744,
+      23668,
+      23169,
+      888,
+      24099,
+      23906,
+      21016,
+      23850,
+      24059,
+      23595,
+      24215,
+      24198,
+      24206,
+      24150
+    ],
+    "Theta": 18818,
+    "ThetaEstimation": 19.9731,
+    "ThetaEstimationGenerateRRR": [
+      7.439,
+      7.08
+    ],
+    "ThetaEstimationMostInfluential": [
+      1.7875,
+      3.6078
+    ],
+    "ThetaPrimeDeltas": [
+      5730,
+      5730
+    ],
+    "Total": 2317.4586
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      1.4169,
+      2.8683
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 32.9285,
+    "Input": "Cit-HepTh.txt",
+    "K": 25,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepTh_8_25.json",
+    "Pivoting": [
+      1.1720000000000004,
+      2.5484
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      15939,
+      23926,
+      22949,
+      23203,
+      21692,
+      23475,
+      17228,
+      23163,
+      23814,
+      23738,
+      23962,
+      23744,
+      23668,
+      23169,
+      888,
+      24099,
+      23906,
+      21016,
+      23850,
+      24059,
+      23595,
+      24215,
+      24198,
+      24206,
+      24150
+    ],
+    "Theta": 13571,
+    "ThetaEstimation": 186.6649,
+    "ThetaEstimationGenerateRRR": [
+      90.9225,
+      87.183
+    ],
+    "ThetaEstimationMostInfluential": [
+      2.8463,
+      5.7025
+    ],
+    "ThetaPrimeDeltas": [
+      5679,
+      5679
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      1.1797,
+      2.2048
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 10.3066,
+    "Input": "Cit-HepTh.txt",
+    "K": 25,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepTh_8_25.json",
+    "Pivoting": [
+      1.0555999999999999,
+      2.1351999999999998
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      15939,
+      23926,
+      22949,
+      23203,
+      21692,
+      23475,
+      17228,
+      23163,
+      23814,
+      23738,
+      23962,
+      23744,
+      23668,
+      23169,
+      888,
+      24099,
+      23906,
+      21016,
+      23850,
+      24059,
+      23595,
+      24215,
+      24198,
+      24206,
+      24150
+    ],
+    "Theta": 12317,
+    "ThetaEstimation": 151.8208,
+    "ThetaEstimationGenerateRRR": [
+      72.3026,
+      72.2763
+    ],
+    "ThetaEstimationMostInfluential": [
+      2.59,
+      4.6414
+    ],
+    "ThetaPrimeDeltas": [
+      5729,
+      5729
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      0.264,
+      0.4787
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 6.6594,
+    "Input": "Cit-HepTh.txt",
+    "K": 25,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepTh_8_25.json",
+    "Pivoting": [
+      1.1605,
+      2.271
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      15939,
+      23926,
+      22949,
+      23203,
+      21692,
+      23475,
+      17228,
+      23163,
+      23814,
+      23738,
+      23962,
+      23744,
+      23668,
+      23169,
+      888,
+      24099,
+      23906,
+      21016,
+      23850,
+      24059,
+      23595,
+      24215,
+      24198,
+      24206,
+      24150
+    ],
+    "Theta": 14198,
+    "ThetaEstimation": 31.9079,
+    "ThetaEstimationGenerateRRR": [
+      13.8537,
+      13.4251
+    ],
+    "ThetaEstimationMostInfluential": [
+      1.6519,
+      2.972
+    ],
+    "ThetaPrimeDeltas": [
+      5690,
+      5691
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      1.9015
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 121.7234,
+    "Input": "Cit-HepTh.txt",
+    "K": 25,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepTh_8_25.json",
+    "Pivoting": [
+      0.8857999999999999
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      15939,
+      23926,
+      22949,
+      23203,
+      21692,
+      23475,
+      17228,
+      23163,
+      23814,
+      23738,
+      23962,
+      23744,
+      23668,
+      23169,
+      888,
+      24099,
+      23906,
+      21016,
+      23850,
+      24059,
+      23595,
+      24215,
+      24198,
+      24206,
+      24150
+    ],
+    "Theta": 11450,
+    "ThetaEstimation": 129.4188,
+    "ThetaEstimationGenerateRRR": [
+      126.3552
+    ],
+    "ThetaEstimationMostInfluential": [
+      3.0588
+    ],
+    "ThetaPrimeDeltas": [
+      5679
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      2.6484
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 229.5996,
+    "Input": "Cit-HepTh.txt",
+    "K": 25,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepTh_8_25.json",
+    "Pivoting": [
+      0.8467000000000001
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      15939,
+      23926,
+      22949,
+      23203,
+      21692,
+      23475,
+      17228,
+      23163,
+      23814,
+      23738,
+      23962,
+      23744,
+      23668,
+      23169,
+      888,
+      24099,
+      23906,
+      21016,
+      23850,
+      24059,
+      23595,
+      24215,
+      24198,
+      24206,
+      24150
+    ],
+    "Theta": 9222,
+    "ThetaEstimation": 379.306,
+    "ThetaEstimationGenerateRRR": [
+      375.4243
+    ],
+    "ThetaEstimationMostInfluential": [
+      3.875
+    ],
+    "ThetaPrimeDeltas": [
+      5734
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      3.0195
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 188.8039,
+    "Input": "Cit-HepTh.txt",
+    "K": 25,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepTh_8_25.json",
+    "Pivoting": [
+      1.0477999999999998
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      15939,
+      23926,
+      22949,
+      23203,
+      21692,
+      23475,
+      17228,
+      23163,
+      23814,
+      23738,
+      23962,
+      23744,
+      23668,
+      23169,
+      888,
+      24099,
+      23906,
+      21016,
+      23850,
+      24059,
+      23595,
+      24215,
+      24198,
+      24206,
+      24150
+    ],
+    "Theta": 10586,
+    "ThetaEstimation": 205.3517,
+    "ThetaEstimationGenerateRRR": [
+      200.8945
+    ],
+    "ThetaEstimationMostInfluential": [
+      4.45
+    ],
+    "ThetaPrimeDeltas": [
+      5734
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      1.6179
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 150.4637,
+    "Input": "Cit-HepTh.txt",
+    "K": 25,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepTh_8_25.json",
+    "Pivoting": [
+      0.8941000000000001
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      15939,
+      23926,
+      22949,
+      23203,
+      21692,
+      23475,
+      17228,
+      23163,
+      23814,
+      23738,
+      23962,
+      23744,
+      23668,
+      23169,
+      888,
+      24099,
+      23906,
+      21016,
+      23850,
+      24059,
+      23595,
+      24215,
+      24198,
+      24206,
+      24150
+    ],
+    "Theta": 9457,
+    "ThetaEstimation": 236.3852,
+    "ThetaEstimationGenerateRRR": [
+      233.5731
+    ],
+    "ThetaEstimationMostInfluential": [
+      2.8054
+    ],
+    "ThetaPrimeDeltas": [
+      5679
+    ],
+    "Total": 0.0
+  }
+]

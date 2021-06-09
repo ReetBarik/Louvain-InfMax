@@ -1,17 +1,28 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Jun  2 13:20:38 2021
+Created on Tue Jun  8 15:49:37 2021
 
 @author: reetb
 """
 
 import os
-os.chdir('C:/Users/reetb/Desktop/LouvainInfMax/InitialExpts/Plots')
+os.chdir('C:/Users/reetb/Desktop/Louvain-InfMax/InitialExpts/Plots')
 
 import matplotlib.pyplot as plt
 plt.style.use('ggplot')
 import statistics
 import numpy as np
+import json
+
+def expectedSpread(filename):
+    with open(filename) as json_file:
+        data = json.load(json_file)
+    l = []
+    
+    for i in list(data[0]['Simulations']):
+        l.append(i[0])
+        
+    return statistics.mean(l), statistics.stdev(l)
 
 th_imm_10 = [13547, 13550, 13666, 13605, 13726]
 th_imm_15 = [13831, 14156, 13947, 13904, 13761]
@@ -46,128 +57,136 @@ ph_louvain_imm_50 = [17470, 17660, 17593, 17583, 17376]
 ph_louvain_imm_75 = [17294, 17059, 17603, 17449, 17819]
 ph_louvain_imm_100 = [18688, 18604, 18822, 18636, 18397]
 
-fig,ax = plt.subplots()
+choice = 2
 
 y1 = []
 e1 = []
-y1.append(statistics.mean(th_imm_10))
-e1.append(statistics.stdev(th_imm_10))
-
-y1.append(statistics.mean(th_imm_15))
-e1.append(statistics.stdev(th_imm_15))
-
-y1.append(statistics.mean(th_imm_20))
-e1.append(statistics.stdev(th_imm_20))
-
-y1.append(statistics.mean(th_imm_25))
-e1.append(statistics.stdev(th_imm_25))
-
-y1.append(statistics.mean(th_imm_50))
-e1.append(statistics.stdev(th_imm_50))
-
-y1.append(statistics.mean(th_imm_75))
-e1.append(statistics.stdev(th_imm_75))
-
-y1.append(statistics.mean(th_imm_100))
-e1.append(statistics.stdev(th_imm_100))
-
 y2 = []
 e2 = []
-y2.append(statistics.mean(th_louvain_imm_10))
-e2.append(statistics.stdev(th_louvain_imm_10))
+filename = ''
 
-y2.append(statistics.mean(th_louvain_imm_15))
-e2.append(statistics.stdev(th_louvain_imm_15))
-
-y2.append(statistics.mean(th_louvain_imm_20))
-e2.append(statistics.stdev(th_louvain_imm_20))
-
-y2.append(statistics.mean(th_louvain_imm_25))
-e2.append(statistics.stdev(th_louvain_imm_25))
-
-y2.append(statistics.mean(th_louvain_imm_50))
-e2.append(statistics.stdev(th_louvain_imm_50))
-
-y2.append(statistics.mean(th_louvain_imm_75))
-e2.append(statistics.stdev(th_louvain_imm_75))
-
-y2.append(statistics.mean(th_louvain_imm_100))
-e2.append(statistics.stdev(th_louvain_imm_100))
-
-
-#labels = ['10', '15', '20', '25', '50', '75', '100']
-#x = np.arange(len(labels))
-
-x = [10,15,20,25,50,75,100]
-ax.errorbar(x, y1, e1, marker='^', label='Imm')
-ax.errorbar(x, y2, e2, marker='o', label='Louvain-Imm-Seq')
-ax.legend()
-ax.set_xlabel('No. Seeds')
-ax.set_ylabel('Expected influence')
-ax.set_title('cit-HepTh: n = 27,770, m = 352,807')
-plt.savefig('cit-HepTh_ExpectedInfluence.png', dpi = 500)
-#ax.set_xticklabels(labels)
+if (choice == 1): #1 for Ph 2 for Th
+    
+    filename = '../Simulator/Louvain-Imm/Seq/Metis/Cit-HepPh/Cit-HepPh_'
+    
+    y1.append(statistics.mean(ph_imm_10))
+    e1.append(statistics.stdev(ph_imm_10))
+    
+    y1.append(statistics.mean(ph_imm_15))
+    e1.append(statistics.stdev(ph_imm_15))
+    
+    y1.append(statistics.mean(ph_imm_20))
+    e1.append(statistics.stdev(ph_imm_20))
+    
+    y1.append(statistics.mean(ph_imm_25))
+    e1.append(statistics.stdev(ph_imm_25))
+    
+    y1.append(statistics.mean(ph_imm_50))
+    e1.append(statistics.stdev(ph_imm_50))
+    
+    y1.append(statistics.mean(ph_imm_75))
+    e1.append(statistics.stdev(ph_imm_75))
+    
+    y1.append(statistics.mean(ph_imm_100))
+    e1.append(statistics.stdev(ph_imm_100))
+    
+    
+    y2.append(statistics.mean(ph_louvain_imm_10))
+    e2.append(statistics.stdev(ph_louvain_imm_10))
+    
+    y2.append(statistics.mean(ph_louvain_imm_15))
+    e2.append(statistics.stdev(ph_louvain_imm_15))
+    
+    y2.append(statistics.mean(ph_louvain_imm_20))
+    e2.append(statistics.stdev(ph_louvain_imm_20))
+    
+    y2.append(statistics.mean(ph_louvain_imm_25))
+    e2.append(statistics.stdev(ph_louvain_imm_25))
+    
+    y2.append(statistics.mean(ph_louvain_imm_50))
+    e2.append(statistics.stdev(ph_louvain_imm_50))
+    
+    y2.append(statistics.mean(ph_louvain_imm_75))
+    e2.append(statistics.stdev(ph_louvain_imm_75))
+    
+    y2.append(statistics.mean(ph_louvain_imm_100))
+    e2.append(statistics.stdev(ph_louvain_imm_100))
+    
+if (choice ==2):
+    
+    filename = '../Simulator/Louvain-Imm/Seq/Metis/Cit-HepTh/Cit-HepTh_'
+    
+    y1.append(statistics.mean(th_imm_10))
+    e1.append(statistics.stdev(th_imm_10))
+    
+    y1.append(statistics.mean(th_imm_15))
+    e1.append(statistics.stdev(th_imm_15))
+    
+    y1.append(statistics.mean(th_imm_20))
+    e1.append(statistics.stdev(th_imm_20))
+    
+    y1.append(statistics.mean(th_imm_25))
+    e1.append(statistics.stdev(th_imm_25))
+    
+    y1.append(statistics.mean(th_imm_50))
+    e1.append(statistics.stdev(th_imm_50))
+    
+    y1.append(statistics.mean(th_imm_75))
+    e1.append(statistics.stdev(th_imm_75))
+    
+    y1.append(statistics.mean(th_imm_100))
+    e1.append(statistics.stdev(th_imm_100))
+    
+    y2.append(statistics.mean(th_louvain_imm_10))
+    e2.append(statistics.stdev(th_louvain_imm_10))
+    
+    y2.append(statistics.mean(th_louvain_imm_15))
+    e2.append(statistics.stdev(th_louvain_imm_15))
+    
+    y2.append(statistics.mean(th_louvain_imm_20))
+    e2.append(statistics.stdev(th_louvain_imm_20))
+    
+    y2.append(statistics.mean(th_louvain_imm_25))
+    e2.append(statistics.stdev(th_louvain_imm_25))
+    
+    y2.append(statistics.mean(th_louvain_imm_50))
+    e2.append(statistics.stdev(th_louvain_imm_50))
+    
+    y2.append(statistics.mean(th_louvain_imm_75))
+    e2.append(statistics.stdev(th_louvain_imm_75))
+    
+    y2.append(statistics.mean(th_louvain_imm_100))
+    e2.append(statistics.stdev(th_louvain_imm_100))
 
 
 fig,ax = plt.subplots()
 
-y1 = []
-e1 = []
-y1.append(statistics.mean(ph_imm_10))
-e1.append(statistics.stdev(ph_imm_10))
+partition = [2,4,8,16,32,64]
+seedSize = [10,15,20,25,50,75,100]
 
-y1.append(statistics.mean(ph_imm_15))
-e1.append(statistics.stdev(ph_imm_15))
+ax.errorbar(seedSize, y1, e1, marker='^', label='Imm')
+ax.errorbar(seedSize, y2, e2, marker='o', label='Grappolo')
 
-y1.append(statistics.mean(ph_imm_20))
-e1.append(statistics.stdev(ph_imm_20))
+for p in partition:
+    y = []
+    e = []
+    for s in seedSize:
+         exptFile = filename + str(p) + '_' + str(s) + '.json'
+         m,std = expectedSpread(exptFile)
+         y.append(m)
+         e.append(std)
+    ax.errorbar(seedSize, y, e, marker='o', label='METIS-' + str(p))
 
-y1.append(statistics.mean(ph_imm_25))
-e1.append(statistics.stdev(ph_imm_25))
-
-y1.append(statistics.mean(ph_imm_50))
-e1.append(statistics.stdev(ph_imm_50))
-
-y1.append(statistics.mean(ph_imm_75))
-e1.append(statistics.stdev(ph_imm_75))
-
-y1.append(statistics.mean(ph_imm_100))
-e1.append(statistics.stdev(ph_imm_100))
-
-y2 = []
-e2 = []
-y2.append(statistics.mean(ph_louvain_imm_10))
-e2.append(statistics.stdev(ph_louvain_imm_10))
-
-y2.append(statistics.mean(ph_louvain_imm_15))
-e2.append(statistics.stdev(ph_louvain_imm_15))
-
-y2.append(statistics.mean(ph_louvain_imm_20))
-e2.append(statistics.stdev(ph_louvain_imm_20))
-
-y2.append(statistics.mean(ph_louvain_imm_25))
-e2.append(statistics.stdev(ph_louvain_imm_25))
-
-y2.append(statistics.mean(ph_louvain_imm_50))
-e2.append(statistics.stdev(ph_louvain_imm_50))
-
-y2.append(statistics.mean(ph_louvain_imm_75))
-e2.append(statistics.stdev(ph_louvain_imm_75))
-
-y2.append(statistics.mean(ph_louvain_imm_100))
-e2.append(statistics.stdev(ph_louvain_imm_100))
-
-
-#labels = ['10', '15', '20', '25', '50', '75', '100']
-#x = np.arange(len(labels))
-
-x = [10,15,20,25,50,75,100]
-ax.errorbar(x, y1, e1, marker='^', label='Imm')
-ax.errorbar(x, y2, e2, marker='o', label='Louvain-Imm-Seq')
 ax.legend()
 ax.set_xlabel('No. Seeds')
 ax.set_ylabel('Expected influence')
-ax.set_title('cit-HepPh: n = 34,546, m = 421,578')
-plt.savefig('cit-HepPh_ExpectedInfluence.png', dpi = 500)
-#ax.set_xticklabels(labels)
+if (choice == 1):
+    ax.set_title('cit-HepPh: n = 34,546, m = 421,578')
+    plt.savefig('cit-HepPh_ExpectedInfluenceMETIS.png', dpi = 500)
+if (choice == 2):
+    ax.set_title('cit-HepTh: n = 27,770, m = 352,807')
+    plt.savefig('cit-HepTh_ExpectedInfluence.png', dpi = 500)
+
+
+
 

@@ -1,0 +1,117 @@
+[
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      7.0016,
+      14.7803
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 129.215,
+    "Input": "Cit-HepPh.txt",
+    "K": 20,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_2_20.json",
+    "Pivoting": [
+      1.3170999999999997,
+      2.6077999999999997
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      19529,
+      32617,
+      29002,
+      17963,
+      23072,
+      19979,
+      4160,
+      27079,
+      28446,
+      28814,
+      23965,
+      24918,
+      34125,
+      29781,
+      2495,
+      31902,
+      26907,
+      29019,
+      29779,
+      32557
+    ],
+    "Theta": 13397,
+    "ThetaEstimation": 1225.3046,
+    "ThetaEstimationGenerateRRR": [
+      582.8068,
+      613.3209
+    ],
+    "ThetaEstimationMostInfluential": [
+      9.905,
+      19.1071
+    ],
+    "ThetaPrimeDeltas": [
+      6031,
+      6032
+    ],
+    "Total": 3957.7265
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      15.4134
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 1198.1835,
+    "Input": "Cit-HepPh.txt",
+    "K": 20,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepPh_2_20.json",
+    "Pivoting": [
+      0.9502999999999998
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      19529,
+      32617,
+      29002,
+      17963,
+      23072,
+      19979,
+      4160,
+      27079,
+      28446,
+      28814,
+      23965,
+      24918,
+      34125,
+      29781,
+      2495,
+      31902,
+      26907,
+      29019,
+      29779,
+      32557
+    ],
+    "Theta": 11397,
+    "ThetaEstimation": 1223.4225,
+    "ThetaEstimationGenerateRRR": [
+      1205.5059
+    ],
+    "ThetaEstimationMostInfluential": [
+      17.9096
+    ],
+    "ThetaPrimeDeltas": [
+      6009
+    ],
+    "Total": 0.0
+  }
+]

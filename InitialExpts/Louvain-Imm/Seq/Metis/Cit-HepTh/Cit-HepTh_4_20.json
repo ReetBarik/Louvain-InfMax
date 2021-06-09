@@ -1,0 +1,232 @@
+[
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      0.2652,
+      0.9848
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 18.5933,
+    "Input": "Cit-HepTh.txt",
+    "K": 20,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepTh_4_20.json",
+    "Pivoting": [
+      1.4240000000000002,
+      2.4220999999999995
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      476,
+      24240,
+      4278,
+      23989,
+      24059,
+      23860,
+      261,
+      23651,
+      23203,
+      23555,
+      24099,
+      13845,
+      21692,
+      23864,
+      2884,
+      23814,
+      20879,
+      21740,
+      23169,
+      23926
+    ],
+    "Theta": 17387,
+    "ThetaEstimation": 32.0754,
+    "ThetaEstimationGenerateRRR": [
+      12.6152,
+      13.6181
+    ],
+    "ThetaEstimationMostInfluential": [
+      2.0158,
+      3.7728
+    ],
+    "ThetaPrimeDeltas": [
+      5347,
+      5347
+    ],
+    "Total": 2805.4394
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      1.6495,
+      3.1185
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 74.646,
+    "Input": "Cit-HepTh.txt",
+    "K": 20,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepTh_4_20.json",
+    "Pivoting": [
+      1.0634,
+      2.2157
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      476,
+      24240,
+      4278,
+      23989,
+      24059,
+      23860,
+      261,
+      23651,
+      23203,
+      23555,
+      24099,
+      13845,
+      21692,
+      23864,
+      2884,
+      23814,
+      20879,
+      21740,
+      23169,
+      23926
+    ],
+    "Theta": 14553,
+    "ThetaEstimation": 222.5826,
+    "ThetaEstimationGenerateRRR": [
+      106.062,
+      107.5335
+    ],
+    "ThetaEstimationMostInfluential": [
+      3.1627,
+      5.8141
+    ],
+    "ThetaPrimeDeltas": [
+      5309,
+      5309
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      3.9827
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 628.9511,
+    "Input": "Cit-HepTh.txt",
+    "K": 20,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepTh_4_20.json",
+    "Pivoting": [
+      0.9447999999999999
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      476,
+      24240,
+      4278,
+      23989,
+      24059,
+      23860,
+      261,
+      23651,
+      23203,
+      23555,
+      24099,
+      13845,
+      21692,
+      23864,
+      2884,
+      23814,
+      20879,
+      21740,
+      23169,
+      23926
+    ],
+    "Theta": 9771,
+    "ThetaEstimation": 721.9418,
+    "ThetaEstimationGenerateRRR": [
+      716.372
+    ],
+    "ThetaEstimationMostInfluential": [
+      5.563
+    ],
+    "ThetaPrimeDeltas": [
+      5315
+    ],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      3.4903
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 419.8077,
+    "Input": "Cit-HepTh.txt",
+    "K": 20,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepTh_4_20.json",
+    "Pivoting": [
+      0.8507
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      476,
+      24240,
+      4278,
+      23989,
+      24059,
+      23860,
+      261,
+      23651,
+      23203,
+      23555,
+      24099,
+      13845,
+      21692,
+      23864,
+      2884,
+      23814,
+      20879,
+      21740,
+      23169,
+      23926
+    ],
+    "Theta": 9826,
+    "ThetaEstimation": 501.063,
+    "ThetaEstimationGenerateRRR": [
+      496.0196
+    ],
+    "ThetaEstimationMostInfluential": [
+      5.0364
+    ],
+    "ThetaPrimeDeltas": [
+      5353
+    ],
+    "Total": 0.0
+  }
+]

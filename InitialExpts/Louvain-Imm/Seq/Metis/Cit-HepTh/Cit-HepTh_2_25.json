@@ -1,0 +1,127 @@
+[
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      11.2431
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 1704.5194,
+    "Input": "Cit-HepTh.txt",
+    "K": 25,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepTh_2_25.json",
+    "Pivoting": [
+      1.3061999999999998
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      9192,
+      23169,
+      26357,
+      24059,
+      24237,
+      23162,
+      14063,
+      23203,
+      24223,
+      23814,
+      20739,
+      23852,
+      23555,
+      24188,
+      3270,
+      23962,
+      23926,
+      24070,
+      24172,
+      22793,
+      23744,
+      24192,
+      23046,
+      23475,
+      22614
+    ],
+    "Theta": 11992,
+    "ThetaEstimation": 2331.8026,
+    "ThetaEstimationGenerateRRR": [
+      2317.7784
+    ],
+    "ThetaEstimationMostInfluential": [
+      13.9292
+    ],
+    "ThetaPrimeDeltas": [
+      7031
+    ],
+    "Total": 4560.5817
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [
+      1.4721,
+      2.981
+    ],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 111.8253,
+    "Input": "Cit-HepTh.txt",
+    "K": 25,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 1,
+    "NumWalkWorkers": 8,
+    "Output": "Cit-HepTh_2_25.json",
+    "Pivoting": [
+      2.0031000000000003,
+      4.075000000000001
+    ],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      9192,
+      23169,
+      26357,
+      24059,
+      24237,
+      23162,
+      14063,
+      23203,
+      24223,
+      23814,
+      20739,
+      23852,
+      23555,
+      24188,
+      3270,
+      23962,
+      23926,
+      24070,
+      24172,
+      22793,
+      23744,
+      24192,
+      23046,
+      23475,
+      22614
+    ],
+    "Theta": 21798,
+    "ThetaEstimation": 201.119,
+    "ThetaEstimationGenerateRRR": [
+      92.0927,
+      96.8306
+    ],
+    "ThetaEstimationMostInfluential": [
+      4.2641,
+      7.9167
+    ],
+    "ThetaPrimeDeltas": [
+      6977,
+      6977
+    ],
+    "Total": 0.0
+  }
+]
