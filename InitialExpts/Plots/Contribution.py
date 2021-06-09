@@ -6,7 +6,7 @@ Created on Wed Jun  2 17:28:44 2021
 """
 
 import os
-os.chdir('C:/Users/reetb/Desktop/LouvainInfMax/InitialExpts/Plots')
+os.chdir('C:/Users/reetb/Desktop/Louvain-InfMax/InitialExpts/Plots')
 
 from collections import Counter
 import pandas as pd
@@ -20,7 +20,7 @@ def read_integers(filename):
     with open(filename) as f:
         return [int(x) for x in f]
     
-filename = '../Grappolo/ClusterAssignments/Cit-HepPh.txt_clustInfo'
+filename = '../METIS/Cit-HepPh.txt_64'
 comm = read_integers(filename)
 comm_size = Counter(comm)
 
@@ -32,7 +32,7 @@ seedSetSize = ['10', '15', '20', '25', '50', '75', '100']
 contribution = pd.DataFrame(columns=seedSetSize)
 
 for i in seedSetSize:
-    seedfile = '../Louvain-Imm/Seq/Cit-HepPh_' + i + '.json'
+    seedfile = '../Louvain-Imm/Seq/Metis/Cit-HepPh/Cit-HepPh_64_' + i + '.json'
     
     with open(seedfile) as json_file:
         data = json.load(json_file)
@@ -53,12 +53,42 @@ for i in range(len(comm_size)):
     
 fig,ax = plt.subplots()
 
-ax.plot(l)
-ax.set_xlabel('Community ID')
-ax.set_ylabel('Community Size')
+ax.plot(l, marker='o', alpha=0.5)
+ax.set_xlabel('Partition ID')
+ax.set_ylabel('Partition Size (#nodes)')
 ax.set_title('cit-HepPh: n = 34,546, m = 421,578')
-plt.savefig('cit-HepPh_CommunitySize.png', dpi = 500)
+plt.savefig('cit-HepPh_PartitionNodeSize.png', dpi = 500)
 
+#ax.set_title('cit-HepTh: n = 27,770, m = 352,807')
+#plt.savefig('cit-HepTh_PartitionNodeSize.png', dpi = 500)
+
+
+#################################################################################################
+
+partition_size = [0] * len(comm_size) 
+
+edgelist = '../Input/Cit-HepPh.txt'
+
+df = pd.read_csv(edgelist, sep = ' ', header = None)
+
+for i in range(len(df)):
+    source = df[0][i] - 1
+    destination = df[1][i] - 1
+    
+    partition_size[comm[source]] += 1
+    partition_size[comm[destination]] += 1
+    
+fig,ax = plt.subplots()
+
+ax.plot(partition_size, marker='o', alpha=0.5)
+ax.set_xlabel('Partition ID')
+ax.set_ylabel('Partition Size (#edges)')
+ax.set_title('cit-HepPh: n = 34,546, m = 421,578')
+plt.savefig('cit-HepPh_PartitionEdgeSize.png', dpi = 500)
+
+#ax.set_title('cit-HepTh: n = 27,770, m = 352,807')
+#plt.savefig('cit-HepTh_PartitionEdgeSize.png', dpi = 500)
+    
     
     
 
