@@ -1,0 +1,25 @@
+
+
+max_heap.reserve(k)
+for i in [1,comm.size]: comm[i].open = True
+
+while(1){
+	
+	count = comm.size
+	for (i = 1; i <= comm.size; i++){
+		seed = comm[i].champion
+		if(max_heap.push(seed))
+			continue
+		else
+			comm[i].open = False
+			count --
+	}
+
+	if (count == 0)
+		break;
+}
+
+
+
+
+

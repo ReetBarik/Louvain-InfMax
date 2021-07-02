@@ -1,0 +1,61 @@
+[
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 11476.013837,
+    "GenerateRRRSets": 5793.209115,
+    "Input": "NewExpts/Input/BerkStan.txt",
+    "K": 25,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 24,
+    "NumWalkWorkers": 24,
+    "Output": "NewExpts/Imm/BerkStan.txt_imm_25.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 13749108072,
+    "Seeds": [
+      61841,
+      276323,
+      581996,
+      327967,
+      582041,
+      519017,
+      262976,
+      394759,
+      632145,
+      410710,
+      500670,
+      423933,
+      65481,
+      526560,
+      562414,
+      505803,
+      201121,
+      163207,
+      635119,
+      272983,
+      336128,
+      175902,
+      369006,
+      269648,
+      126406
+    ],
+    "Theta": 32156,
+    "ThetaEstimation": 22793.628461,
+    "ThetaEstimationGenerateRRR": [
+      5558.315125,
+      5635.593201
+    ],
+    "ThetaEstimationMostInfluential": [
+      3933.072468,
+      7666.586849
+    ],
+    "ThetaPrimeDeltas": [
+      10644,
+      10644
+    ],
+    "Total": 40844.37093
+  }
+]

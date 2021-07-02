@@ -3,3 +3,5 @@
 ./build/release/tools/imm -i ../karate.edgelist -k 5 -p -d IC -e 0.25 -o karate_imm.json
 
 ./build/release/tools/louvain-imm -i ../karate.edgelist -k 5 -p -d IC -e 0.25 --community-map ../karate.edgelist_clustInfo -o karate_imm_c.json
+
+./driverForPartitioningWithMetis -f 6 europe_osm.mtx
