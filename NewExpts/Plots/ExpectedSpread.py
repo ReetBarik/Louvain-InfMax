@@ -6,7 +6,7 @@ Created on Tue Jun  8 15:49:37 2021
 """
 
 import os
-os.chdir('C:/Users/reetb/Desktop/HiPC_Constance/NewExpts/Plots')
+os.chdir('C:/Users/reetb/Desktop/Louvain-InfMax/NewExpts/Plots')
 
 import matplotlib.pyplot as plt
 plt.style.use('ggplot')
@@ -14,7 +14,7 @@ import statistics
 import numpy as np
 import json
 
-f = 'BerkStan.txt'
+f = 'HepPh.txt'
 
 def expectedSpread(filename):
     with open(filename) as json_file:
@@ -67,8 +67,8 @@ for p in partition:
 ax.legend()
 ax.set_xlabel('No. Seeds')
 ax.set_ylabel('Expected influence')
-ax.set_title('BerkStan: n = 685K, m = 7.6M, mod = 0.94')
-plt.savefig('BerkStan_ExpectedInfluence.png', dpi = 500)
+ax.set_title('HepPh: n = 34K, m = 421K, mod = 0.72')
+plt.savefig('HepPh_ExpectedInfluence.png', dpi = 500)
 
 
 
