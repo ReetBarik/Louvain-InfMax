@@ -1,24 +1,39 @@
 
 
-max_heap.reserve(k)
-for i in [1,comm.size]: comm[i].open = True
+Input: G(V,E,W), community/partition assignment array clustInfo
+Output: k seeds
 
-count = comm.size
+comm_number = max(clustInfo)
+comm_graph[comm_number] to store the induced subgraph for each community
+comm_status[comm_number] to store the status of each community
+
+max_heap = max heap of size k
+
+for i in [1,comm_number]: comm_status[i] = True
+
+count = comm_number
 
 while(1){
 		
-	for (i = 1; i <= comm.size; i++){
-		seed = comm[i].champion
-		if(max_heap.push(seed))
-			continue
+	for i in [1,comm_number]:
+
+		if(comm_status[i] = True)
+			seed = IMM(comm[i], 1) 
+			if(max_heap.push(seed))
+				continue
+			else
+				comm_status[i] = False
+				count --
 		else
-			comm[i].open = False
-			count --
-	}
+			continue
 
 	if (count == 0)
 		break;
 }
+
+
+
+
 
 
 
