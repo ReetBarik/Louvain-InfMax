@@ -14,7 +14,7 @@ from collections import Counter
 import numpy as np
 import json
 
-input = 'BerkStan.txt'
+input = 'soc-Epinions1.txt'
 
 def read_integers(filename):
     with open(filename) as f:
@@ -47,6 +47,10 @@ for i in range(len(comm_size)):
 seed_comm_size = seed_comm_size / 100
 
 global_comm_size = global_comm_size / len(comm)
+
+df = pd.DataFrame({'seed': seed_comm_size,'comm': global_comm_size})
+
+df.to_csv(input + '.csv', sep = ',', index = False) 
 
 fig, ax = plt.subplots()
 
