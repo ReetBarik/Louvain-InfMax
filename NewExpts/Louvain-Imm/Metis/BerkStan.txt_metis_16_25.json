@@ -47,7 +47,7 @@
     "ThetaEstimationGenerateRRR": [],
     "ThetaEstimationMostInfluential": [],
     "ThetaPrimeDeltas": [],
-    "Total": 45069.736579
+    "Total": 41530.8027
   },
   {
     "Algorithm": "IMM",
@@ -805,7 +805,7 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 524.667909,
+    "GenerateRRRSets": 506.290192,
     "Input": "NewExpts/Input/BerkStan.txt",
     "K": 25,
     "L": 1,
@@ -843,12 +843,12 @@
       632210
     ],
     "Theta": 9776,
-    "ThetaEstimation": 2278.265932,
+    "ThetaEstimation": 2182.428506,
     "ThetaEstimationGenerateRRR": [
-      2099.093304
+      2014.498606
     ],
     "ThetaEstimationMostInfluential": [
-      179.113798
+      167.88002
     ],
     "ThetaPrimeDeltas": [
       8069
@@ -861,7 +861,7 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 410.824105,
+    "GenerateRRRSets": 405.023125,
     "Input": "NewExpts/Input/BerkStan.txt",
     "K": 25,
     "L": 1,
@@ -899,12 +899,12 @@
       632210
     ],
     "Theta": 9695,
-    "ThetaEstimation": 1925.977546,
+    "ThetaEstimation": 1845.878929,
     "ThetaEstimationGenerateRRR": [
-      1636.769738
+      1586.942112
     ],
     "ThetaEstimationMostInfluential": [
-      289.19406
+      258.922934
     ],
     "ThetaPrimeDeltas": [
       8029
@@ -917,7 +917,7 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 241.920851,
+    "GenerateRRRSets": 242.141413,
     "Input": "NewExpts/Input/BerkStan.txt",
     "K": 25,
     "L": 1,
@@ -955,12 +955,12 @@
       632210
     ],
     "Theta": 8612,
-    "ThetaEstimation": 2042.157676,
+    "ThetaEstimation": 2030.927356,
     "ThetaEstimationGenerateRRR": [
-      1943.685239
+      1929.99245
     ],
     "ThetaEstimationMostInfluential": [
-      98.461731
+      100.924919
     ],
     "ThetaPrimeDeltas": [
       8062
@@ -973,7 +973,7 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 255.071642,
+    "GenerateRRRSets": 244.639424,
     "Input": "NewExpts/Input/BerkStan.txt",
     "K": 25,
     "L": 1,
@@ -1011,12 +1011,12 @@
       632210
     ],
     "Theta": 9375,
-    "ThetaEstimation": 1935.431385,
+    "ThetaEstimation": 1875.749899,
     "ThetaEstimationGenerateRRR": [
-      1250.372478
+      1229.026462
     ],
     "ThetaEstimationMostInfluential": [
-      685.046279
+      646.710505
     ],
     "ThetaPrimeDeltas": [
       8038
@@ -1029,7 +1029,7 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 395.400366,
+    "GenerateRRRSets": 381.367267,
     "Input": "NewExpts/Input/BerkStan.txt",
     "K": 25,
     "L": 1,
@@ -1066,13 +1066,13 @@
       661263,
       632210
     ],
-    "Theta": 10144,
-    "ThetaEstimation": 1809.587385,
+    "Theta": 10140,
+    "ThetaEstimation": 1755.443413,
     "ThetaEstimationGenerateRRR": [
-      1341.863528
+      1312.419665
     ],
     "ThetaEstimationMostInfluential": [
-      467.711951
+      443.010425
     ],
     "ThetaPrimeDeltas": [
       8079
@@ -1085,7 +1085,7 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 169.140575,
+    "GenerateRRRSets": 160.3191,
     "Input": "NewExpts/Input/BerkStan.txt",
     "K": 25,
     "L": 1,
@@ -1122,13 +1122,13 @@
       661263,
       632210
     ],
-    "Theta": 10449,
-    "ThetaEstimation": 3183.828039,
+    "Theta": 10446,
+    "ThetaEstimation": 2845.098731,
     "ThetaEstimationGenerateRRR": [
-      449.434279
+      435.042568
     ],
     "ThetaEstimationMostInfluential": [
-      2734.380667
+      2410.043262
     ],
     "ThetaPrimeDeltas": [
       8060
@@ -1141,7 +1141,7 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 262.39868,
+    "GenerateRRRSets": 246.876714,
     "Input": "NewExpts/Input/BerkStan.txt",
     "K": 25,
     "L": 1,
@@ -1178,13 +1178,13 @@
       661263,
       632210
     ],
-    "Theta": 9013,
-    "ThetaEstimation": 2022.444447,
+    "Theta": 9012,
+    "ThetaEstimation": 1935.688152,
     "ThetaEstimationGenerateRRR": [
-      1606.63271
+      1566.890586
     ],
     "ThetaEstimationMostInfluential": [
-      415.797761
+      368.77488
     ],
     "ThetaPrimeDeltas": [
       7966
@@ -1197,7 +1197,7 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 322.039702,
+    "GenerateRRRSets": 309.986931,
     "Input": "NewExpts/Input/BerkStan.txt",
     "K": 25,
     "L": 1,
@@ -1235,12 +1235,12 @@
       632210
     ],
     "Theta": 8620,
-    "ThetaEstimation": 2971.028564,
+    "ThetaEstimation": 2830.564343,
     "ThetaEstimationGenerateRRR": [
-      2874.148106
+      2739.655313
     ],
     "ThetaEstimationMostInfluential": [
-      96.86897
+      90.897782
     ],
     "ThetaPrimeDeltas": [
       8084
@@ -1253,7 +1253,7 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 497.670428,
+    "GenerateRRRSets": 475.679392,
     "Input": "NewExpts/Input/BerkStan.txt",
     "K": 25,
     "L": 1,
@@ -1290,13 +1290,13 @@
       661263,
       632210
     ],
-    "Theta": 10375,
-    "ThetaEstimation": 1793.316289,
+    "Theta": 10372,
+    "ThetaEstimation": 1733.340603,
     "ThetaEstimationGenerateRRR": [
-      1589.227516
+      1546.775517
     ],
     "ThetaEstimationMostInfluential": [
-      204.078275
+      186.553689
     ],
     "ThetaPrimeDeltas": [
       8057
@@ -1309,7 +1309,7 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 554.463304,
+    "GenerateRRRSets": 513.871562,
     "Input": "NewExpts/Input/BerkStan.txt",
     "K": 25,
     "L": 1,
@@ -1347,12 +1347,12 @@
       632210
     ],
     "Theta": 9424,
-    "ThetaEstimation": 2906.433115,
+    "ThetaEstimation": 2762.564291,
     "ThetaEstimationGenerateRRR": [
-      2691.211116
+      2555.346631
     ],
     "ThetaEstimationMostInfluential": [
-      215.208863
+      207.204744
     ],
     "ThetaPrimeDeltas": [
       8064
@@ -1365,7 +1365,7 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 377.032084,
+    "GenerateRRRSets": 367.43613,
     "Input": "NewExpts/Input/BerkStan.txt",
     "K": 25,
     "L": 1,
@@ -1402,13 +1402,13 @@
       661263,
       632210
     ],
-    "Theta": 11019,
-    "ThetaEstimation": 1426.693838,
+    "Theta": 11020,
+    "ThetaEstimation": 1361.81378,
     "ThetaEstimationGenerateRRR": [
-      960.3819
+      943.537524
     ],
     "ThetaEstimationMostInfluential": [
-      466.298866
+      418.260772
     ],
     "ThetaPrimeDeltas": [
       8057
@@ -1421,7 +1421,7 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 63.842644,
+    "GenerateRRRSets": 61.900857,
     "Input": "NewExpts/Input/BerkStan.txt",
     "K": 25,
     "L": 1,
@@ -1458,13 +1458,13 @@
       661263,
       632210
     ],
-    "Theta": 9118,
-    "ThetaEstimation": 3375.711586,
+    "Theta": 9119,
+    "ThetaEstimation": 2642.858176,
     "ThetaEstimationGenerateRRR": [
-      327.780941
+      318.160207
     ],
     "ThetaEstimationMostInfluential": [
-      3047.91607
+      2324.682413
     ],
     "ThetaPrimeDeltas": [
       8052
@@ -1477,7 +1477,7 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 334.693709,
+    "GenerateRRRSets": 322.010744,
     "Input": "NewExpts/Input/BerkStan.txt",
     "K": 25,
     "L": 1,
@@ -1514,13 +1514,13 @@
       661263,
       632210
     ],
-    "Theta": 8944,
-    "ThetaEstimation": 2691.394757,
+    "Theta": 8948,
+    "ThetaEstimation": 2598.99673,
     "ThetaEstimationGenerateRRR": [
-      2589.823877
+      2500.061377
     ],
     "ThetaEstimationMostInfluential": [
-      101.556788
+      98.924243
     ],
     "ThetaPrimeDeltas": [
       8084
@@ -1533,7 +1533,7 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 173.548007,
+    "GenerateRRRSets": 165.405919,
     "Input": "NewExpts/Input/BerkStan.txt",
     "K": 25,
     "L": 1,
@@ -1570,13 +1570,13 @@
       661263,
       632210
     ],
-    "Theta": 10375,
-    "ThetaEstimation": 3342.605239,
+    "Theta": 10386,
+    "ThetaEstimation": 2813.865764,
     "ThetaEstimationGenerateRRR": [
-      508.427433
+      495.753833
     ],
     "ThetaEstimationMostInfluential": [
-      2834.165575
+      2318.098132
     ],
     "ThetaPrimeDeltas": [
       8029
@@ -1589,7 +1589,7 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 263.185217,
+    "GenerateRRRSets": 259.625772,
     "Input": "NewExpts/Input/BerkStan.txt",
     "K": 25,
     "L": 1,
@@ -1626,13 +1626,13 @@
       661263,
       632210
     ],
-    "Theta": 15852,
-    "ThetaEstimation": 2119.065263,
+    "Theta": 15856,
+    "ThetaEstimation": 1736.0359330000001,
     "ThetaEstimationGenerateRRR": [
-      255.581405
+      251.766506
     ],
     "ThetaEstimationMostInfluential": [
-      1863.470919
+      1484.257304
     ],
     "ThetaPrimeDeltas": [
       8048
@@ -1645,7 +1645,7 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 310.079234,
+    "GenerateRRRSets": 303.814903,
     "Input": "NewExpts/Input/BerkStan.txt",
     "K": 25,
     "L": 1,
@@ -1683,12 +1683,12 @@
       632210
     ],
     "Theta": 9075,
-    "ThetaEstimation": 2597.184811,
+    "ThetaEstimation": 2507.425855,
     "ThetaEstimationGenerateRRR": [
-      2210.509001
+      2132.253851
     ],
     "ThetaEstimationMostInfluential": [
-      386.660841
+      375.157087
     ],
     "ThetaPrimeDeltas": [
       8055
