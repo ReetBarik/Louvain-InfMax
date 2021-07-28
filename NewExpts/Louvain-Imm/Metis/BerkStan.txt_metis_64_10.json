@@ -7,7 +7,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -16,23 +16,23 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
     "ThetaEstimationGenerateRRR": [],
     "ThetaEstimationMostInfluential": [],
     "ThetaPrimeDeltas": [],
-    "Total": 56130.305798
+    "Total": 7616.64071
   },
   {
     "Algorithm": "IMM",
@@ -42,7 +42,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -51,51 +51,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
-    ],
-    "Theta": 0,
-    "ThetaEstimation": 0.0,
-    "ThetaEstimationGenerateRRR": [],
-    "ThetaEstimationMostInfluential": [],
-    "ThetaPrimeDeltas": [],
-    "Total": 0.0
-  },
-  {
-    "Algorithm": "IMM",
-    "Counting": [],
-    "DiffusionModel": "IC",
-    "Epsilon": 0.25,
-    "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 0.0,
-    "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
-    "L": 1,
-    "NumGPUWalkWorkers": 0,
-    "NumThreads": 24,
-    "NumWalkWorkers": 24,
-    "Output": "NewExpts/Louvain-Imm/Metis/BerkStan.txt_metis_64_10.json",
-    "Pivoting": [],
-    "RRRSetSizeBytes": 0,
-    "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -112,7 +77,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -121,16 +86,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -147,7 +112,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -156,16 +121,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -182,7 +147,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -191,16 +156,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -217,7 +182,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -226,16 +191,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -252,7 +217,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -261,16 +226,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -287,7 +252,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -296,16 +261,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -322,7 +287,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -331,16 +296,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -357,7 +322,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -366,16 +331,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -392,7 +357,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -401,16 +366,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -427,7 +392,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -436,16 +401,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -462,7 +427,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -471,16 +436,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -497,7 +462,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -506,16 +471,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -532,7 +497,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -541,16 +506,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -567,7 +532,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -576,16 +541,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -602,7 +567,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -611,16 +576,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -637,7 +602,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -646,16 +611,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -672,7 +637,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -681,16 +646,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -707,7 +672,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -716,16 +681,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -742,7 +707,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -751,16 +716,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -777,7 +742,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -786,16 +751,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -812,7 +777,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -821,16 +786,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -847,7 +812,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -856,16 +821,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -882,7 +847,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -891,16 +856,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -917,7 +882,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -926,16 +891,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -952,7 +917,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -961,16 +926,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -987,7 +952,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -996,16 +961,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -1022,7 +987,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -1031,16 +996,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -1057,7 +1022,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -1066,16 +1031,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -1092,7 +1057,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -1101,16 +1066,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -1127,7 +1092,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -1136,16 +1101,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -1162,7 +1127,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -1171,16 +1136,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -1197,7 +1162,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -1206,16 +1171,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -1232,7 +1197,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -1241,16 +1206,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -1267,7 +1232,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -1276,16 +1241,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -1302,7 +1267,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -1311,16 +1276,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -1337,7 +1302,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -1346,16 +1311,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -1372,7 +1337,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -1381,16 +1346,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -1407,7 +1372,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -1416,16 +1381,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -1442,7 +1407,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -1451,16 +1416,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -1477,7 +1442,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -1486,16 +1451,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -1512,7 +1477,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -1521,16 +1486,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -1547,7 +1512,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -1556,16 +1521,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -1582,7 +1547,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -1591,16 +1556,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -1617,7 +1582,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -1626,16 +1591,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -1652,7 +1617,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -1661,16 +1626,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -1687,7 +1652,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -1696,16 +1661,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -1722,7 +1687,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -1731,16 +1696,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -1757,7 +1722,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -1766,16 +1731,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -1792,7 +1757,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -1801,16 +1766,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -1827,7 +1792,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -1836,16 +1801,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -1862,7 +1827,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -1871,16 +1836,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -1897,7 +1862,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -1906,16 +1871,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -1932,7 +1897,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -1941,16 +1906,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -1967,7 +1932,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -1976,16 +1941,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -2002,7 +1967,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -2011,16 +1976,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -2037,7 +2002,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -2046,16 +2011,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -2072,7 +2037,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -2081,16 +2046,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -2107,7 +2072,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -2116,16 +2081,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -2142,7 +2107,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -2151,16 +2116,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -2177,7 +2142,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -2186,16 +2151,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -2212,7 +2177,7 @@
     "FindMostInfluentialSet": 0.0,
     "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -2221,16 +2186,16 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
     "Theta": 0,
     "ThetaEstimation": 0.0,
@@ -2245,9 +2210,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 108.423149,
+    "GenerateRRRSets": 0.0,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -2256,27 +2221,62 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4260,
-    "ThetaEstimation": 312.379721,
+    "Theta": 0,
+    "ThetaEstimation": 0.0,
+    "ThetaEstimationGenerateRRR": [],
+    "ThetaEstimationMostInfluential": [],
+    "ThetaPrimeDeltas": [],
+    "Total": 0.0
+  },
+  {
+    "Algorithm": "IMM",
+    "Counting": [],
+    "DiffusionModel": "IC",
+    "Epsilon": 0.25,
+    "FindMostInfluentialSet": 0.0,
+    "GenerateRRRSets": 76.257972,
+    "Input": "NewExpts/Input/BerkStan.txt",
+    "K": 1,
+    "L": 1,
+    "NumGPUWalkWorkers": 0,
+    "NumThreads": 24,
+    "NumWalkWorkers": 24,
+    "Output": "NewExpts/Louvain-Imm/Metis/BerkStan.txt_metis_64_10.json",
+    "Pivoting": [],
+    "RRRSetSizeBytes": 0,
+    "Seeds": [
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
+    ],
+    "Theta": 1530,
+    "ThetaEstimation": 83.419506,
     "ThetaEstimationGenerateRRR": [
-      244.493969
+      77.537235
     ],
     "ThetaEstimationMostInfluential": [
-      67.812516
+      5.817813
     ],
     "ThetaPrimeDeltas": [
-      3295
+      815
     ],
     "Total": 0.0
   },
@@ -2286,9 +2286,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 75.30911,
+    "GenerateRRRSets": 55.042564,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -2297,27 +2297,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4130,
-    "ThetaEstimation": 235.608063,
+    "Theta": 1455,
+    "ThetaEstimation": 75.592683,
     "ThetaEstimationGenerateRRR": [
-      194.151856
+      69.811717
     ],
     "ThetaEstimationMostInfluential": [
-      41.447002
+      5.766544
     ],
     "ThetaPrimeDeltas": [
-      3314
+      819
     ],
     "Total": 0.0
   },
@@ -2327,9 +2327,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 106.067144,
+    "GenerateRRRSets": 72.057331,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -2338,27 +2338,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4376,
-    "ThetaEstimation": 259.471322,
+    "Theta": 1563,
+    "ThetaEstimation": 74.652032,
     "ThetaEstimationGenerateRRR": [
-      184.709427
+      68.390439
     ],
     "ThetaEstimationMostInfluential": [
-      74.751585
+      6.252274
     ],
     "ThetaPrimeDeltas": [
-      3294
+      815
     ],
     "Total": 0.0
   },
@@ -2368,9 +2368,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 33.590134,
+    "GenerateRRRSets": 66.080482,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -2379,27 +2379,30 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4691,
-    "ThetaEstimation": 1784.183898,
+    "Theta": 5314,
+    "ThetaEstimation": 44.056872,
     "ThetaEstimationGenerateRRR": [
-      54.963197
+      12.456468,
+      16.551139
     ],
     "ThetaEstimationMostInfluential": [
-      1729.210737
+      5.661427,
+      9.376204
     ],
     "ThetaPrimeDeltas": [
-      3202
+      798,
+      798
     ],
     "Total": 0.0
   },
@@ -2409,9 +2412,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 38.857339,
+    "GenerateRRRSets": 89.636006,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -2420,27 +2423,30 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4881,
-    "ThetaEstimation": 1934.163549,
+    "Theta": 4931,
+    "ThetaEstimation": 55.338765,
     "ThetaEstimationGenerateRRR": [
-      76.17804
+      19.640191,
+      25.806671
     ],
     "ThetaEstimationMostInfluential": [
-      1857.975445
+      5.154983,
+      4.724207
     ],
     "ThetaPrimeDeltas": [
-      3290
+      814,
+      815
     ],
     "Total": 0.0
   },
@@ -2450,9 +2456,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 82.335622,
+    "GenerateRRRSets": 55.163342,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -2461,27 +2467,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4025,
-    "ThetaEstimation": 368.774808,
+    "Theta": 1412,
+    "ThetaEstimation": 109.938716,
     "ThetaEstimationGenerateRRR": [
-      353.202505
+      103.974021
     ],
     "ThetaEstimationMostInfluential": [
-      15.562457
+      5.956468
     ],
     "ThetaPrimeDeltas": [
-      3314
+      819
     ],
     "Total": 0.0
   },
@@ -2491,9 +2497,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 122.59578,
+    "GenerateRRRSets": 60.625082,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -2502,27 +2508,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 5432,
-    "ThetaEstimation": 331.630672,
+    "Theta": 2285,
+    "ThetaEstimation": 40.785377,
     "ThetaEstimationGenerateRRR": [
-      91.683613
+      35.537719
     ],
     "ThetaEstimationMostInfluential": [
-      239.936801
+      5.240304
     ],
     "ThetaPrimeDeltas": [
-      3310
+      818
     ],
     "Total": 0.0
   },
@@ -2532,9 +2538,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 44.053517,
+    "GenerateRRRSets": 75.03535,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -2543,27 +2549,30 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 5082,
-    "ThetaEstimation": 1782.090948,
+    "Theta": 4166,
+    "ThetaEstimation": 36.788659,
     "ThetaEstimationGenerateRRR": [
-      50.032626
+      15.200635,
+      14.887319
     ],
     "ThetaEstimationMostInfluential": [
-      1732.048573
+      3.417696,
+      3.27353
     ],
     "ThetaPrimeDeltas": [
-      3251
+      807,
+      807
     ],
     "Total": 0.0
   },
@@ -2573,9 +2582,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 95.584547,
+    "GenerateRRRSets": 57.125405,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -2584,27 +2593,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4137,
-    "ThetaEstimation": 283.784317,
+    "Theta": 1475,
+    "ThetaEstimation": 99.029477,
     "ThetaEstimationGenerateRRR": [
-      245.603116
+      93.678465
     ],
     "ThetaEstimationMostInfluential": [
-      38.171881
+      5.34233
     ],
     "ThetaPrimeDeltas": [
-      3314
+      819
     ],
     "Total": 0.0
   },
@@ -2614,9 +2623,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 95.247802,
+    "GenerateRRRSets": 54.34386,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -2625,27 +2634,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4218,
-    "ThetaEstimation": 303.082364,
+    "Theta": 1543,
+    "ThetaEstimation": 86.645729,
     "ThetaEstimationGenerateRRR": [
-      211.26641
+      81.387484
     ],
     "ThetaEstimationMostInfluential": [
-      91.807143
+      5.248949
     ],
     "ThetaPrimeDeltas": [
-      3279
+      812
     ],
     "Total": 0.0
   },
@@ -2655,9 +2664,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 74.084753,
+    "GenerateRRRSets": 25.810272,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -2666,27 +2675,30 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 6512,
-    "ThetaEstimation": 1224.594764,
+    "Theta": 3599,
+    "ThetaEstimation": 31.224907,
     "ThetaEstimationGenerateRRR": [
-      33.314832
+      11.924107,
+      12.057837
     ],
     "ThetaEstimationMostInfluential": [
-      1191.271312
+      3.355014,
+      3.879637
     ],
     "ThetaPrimeDeltas": [
-      3151
+      788,
+      789
     ],
     "Total": 0.0
   },
@@ -2696,9 +2708,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 32.396492,
+    "GenerateRRRSets": 99.786988,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -2707,33 +2719,42 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 27569,
-    "ThetaEstimation": 2191.900491,
+    "Theta": 83222,
+    "ThetaEstimation": 67.268268,
     "ThetaEstimationGenerateRRR": [
-      2.853394,
-      4.71487,
-      15.277378
+      0.575622,
+      0.631548,
+      1.105963,
+      2.26307,
+      10.266787,
+      22.768444
     ],
     "ThetaEstimationMostInfluential": [
-      339.056099,
-      637.554276,
-      1192.416842
+      2.409536,
+      3.593084,
+      3.839915,
+      6.266675,
+      6.35409,
+      7.167748
     ],
     "ThetaPrimeDeltas": [
-      3289,
-      3290,
-      6580
+      814,
+      815,
+      1630,
+      3259,
+      6518,
+      13037
     ],
     "Total": 0.0
   },
@@ -2743,9 +2764,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 74.088706,
+    "GenerateRRRSets": 70.221336,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -2754,27 +2775,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4451,
-    "ThetaEstimation": 551.881934,
+    "Theta": 1843,
+    "ThetaEstimation": 75.74986,
     "ThetaEstimationGenerateRRR": [
-      164.731843
+      68.883904
     ],
     "ThetaEstimationMostInfluential": [
-      387.138453
+      6.857809
     ],
     "ThetaPrimeDeltas": [
-      3308
+      818
     ],
     "Total": 0.0
   },
@@ -2784,9 +2805,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 65.643989,
+    "GenerateRRRSets": 44.287726,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -2795,27 +2816,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4584,
-    "ThetaEstimation": 565.322957,
+    "Theta": 2110,
+    "ThetaEstimation": 35.879316,
     "ThetaEstimationGenerateRRR": [
-      107.738497
+      31.504084
     ],
     "ThetaEstimationMostInfluential": [
-      457.559137
+      4.367994
     ],
     "ThetaPrimeDeltas": [
-      3295
+      815
     ],
     "Total": 0.0
   },
@@ -2825,9 +2846,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 110.47781,
+    "GenerateRRRSets": 40.798478,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -2836,27 +2857,30 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 5373,
-    "ThetaEstimation": 1776.752941,
+    "Theta": 2977,
+    "ThetaEstimation": 54.24437,
     "ThetaEstimationGenerateRRR": [
-      81.600599
+      20.144735,
+      25.371387
     ],
     "ThetaEstimationMostInfluential": [
-      1695.141505
+      3.446557,
+      5.271829
     ],
     "ThetaPrimeDeltas": [
-      3308
+      818,
+      818
     ],
     "Total": 0.0
   },
@@ -2866,9 +2890,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 51.639954,
+    "GenerateRRRSets": 42.510804,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -2877,27 +2901,30 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4437,
-    "ThetaEstimation": 2157.799411,
+    "Theta": 3004,
+    "ThetaEstimation": 58.361297,
     "ThetaEstimationGenerateRRR": [
-      107.398423
+      23.292784,
+      26.7273
     ],
     "ThetaEstimationMostInfluential": [
-      2050.388321
+      3.684784,
+      4.64951
     ],
     "ThetaPrimeDeltas": [
-      3310
+      818,
+      819
     ],
     "Total": 0.0
   },
@@ -2907,9 +2934,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 89.090817,
+    "GenerateRRRSets": 54.056814,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -2918,27 +2945,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 5053,
-    "ThetaEstimation": 299.647078,
+    "Theta": 1950,
+    "ThetaEstimation": 48.204934,
     "ThetaEstimationGenerateRRR": [
-      130.028002
+      43.501846
     ],
     "ThetaEstimationMostInfluential": [
-      169.607403
+      4.696054
     ],
     "ThetaPrimeDeltas": [
-      3313
+      819
     ],
     "Total": 0.0
   },
@@ -2948,9 +2975,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 47.320702,
+    "GenerateRRRSets": 37.318594,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -2959,27 +2986,30 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 5677,
-    "ThetaEstimation": 1642.043578,
+    "Theta": 4163,
+    "ThetaEstimation": 34.493663,
     "ThetaEstimationGenerateRRR": [
-      41.277724
+      12.054652,
+      13.598858
     ],
     "ThetaEstimationMostInfluential": [
-      1600.750858
+      3.518744,
+      5.310776
     ],
     "ThetaPrimeDeltas": [
-      3310
+      818,
+      819
     ],
     "Total": 0.0
   },
@@ -2989,9 +3019,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 70.433063,
+    "GenerateRRRSets": 43.876203,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -3000,27 +3030,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4371,
-    "ThetaEstimation": 252.286335,
+    "Theta": 1552,
+    "ThetaEstimation": 67.58593,
     "ThetaEstimationGenerateRRR": [
-      164.414004
+      60.658114
     ],
     "ThetaEstimationMostInfluential": [
-      87.859652
+      6.922561
     ],
     "ThetaPrimeDeltas": [
-      3314
+      819
     ],
     "Total": 0.0
   },
@@ -3030,9 +3060,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 79.726139,
+    "GenerateRRRSets": 54.628368,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -3041,27 +3071,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 5051,
-    "ThetaEstimation": 572.937484,
+    "Theta": 2472,
+    "ThetaEstimation": 30.642216,
     "ThetaEstimationGenerateRRR": [
-      72.651629
+      26.756579
     ],
     "ThetaEstimationMostInfluential": [
-      500.27332
+      3.881599
     ],
     "ThetaPrimeDeltas": [
-      3314
+      819
     ],
     "Total": 0.0
   },
@@ -3071,9 +3101,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 82.343283,
+    "GenerateRRRSets": 98.578697,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -3082,27 +3112,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4025,
-    "ThetaEstimation": 338.502344,
+    "Theta": 1412,
+    "ThetaEstimation": 103.151692,
     "ThetaEstimationGenerateRRR": [
-      324.138648
+      96.661643
     ],
     "ThetaEstimationMostInfluential": [
-      14.353782
+      6.4845
     ],
     "ThetaPrimeDeltas": [
-      3314
+      819
     ],
     "Total": 0.0
   },
@@ -3112,9 +3142,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 79.2468,
+    "GenerateRRRSets": 65.964804,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -3123,27 +3153,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4030,
-    "ThetaEstimation": 311.800909,
+    "Theta": 1442,
+    "ThetaEstimation": 99.40953,
     "ThetaEstimationGenerateRRR": [
-      255.41695
+      94.192555
     ],
     "ThetaEstimationMostInfluential": [
-      56.371302
+      5.20679
     ],
     "ThetaPrimeDeltas": [
-      3309
+      818
     ],
     "Total": 0.0
   },
@@ -3153,9 +3183,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 59.839167,
+    "GenerateRRRSets": 56.616217,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -3164,27 +3194,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4000,
-    "ThetaEstimation": 274.28068,
+    "Theta": 1408,
+    "ThetaEstimation": 97.132641,
     "ThetaEstimationGenerateRRR": [
-      230.824305
+      91.467179
     ],
     "ThetaEstimationMostInfluential": [
-      43.444585
+      5.657242
     ],
     "ThetaPrimeDeltas": [
-      3290
+      814
     ],
     "Total": 0.0
   },
@@ -3194,9 +3224,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 60.933709,
+    "GenerateRRRSets": 48.187615,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -3205,27 +3235,30 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4775,
-    "ThetaEstimation": 1344.668063,
+    "Theta": 3345,
+    "ThetaEstimation": 60.922523,
     "ThetaEstimationGenerateRRR": [
-      176.973025
+      24.3243,
+      28.515413
     ],
     "ThetaEstimationMostInfluential": [
-      1167.684103
+      3.54515,
+      4.525571
     ],
     "ThetaPrimeDeltas": [
-      3280
+      813,
+      813
     ],
     "Total": 0.0
   },
@@ -3235,9 +3268,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 91.41228,
+    "GenerateRRRSets": 57.529976,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -3246,27 +3279,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4847,
-    "ThetaEstimation": 536.554969,
+    "Theta": 2137,
+    "ThetaEstimation": 47.997748,
     "ThetaEstimationGenerateRRR": [
-      123.168273
+      42.435855
     ],
     "ThetaEstimationMostInfluential": [
-      413.374054
+      5.555044
     ],
     "ThetaPrimeDeltas": [
-      3290
+      814
     ],
     "Total": 0.0
   },
@@ -3276,9 +3309,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 99.262422,
+    "GenerateRRRSets": 54.240514,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -3287,27 +3320,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4844,
-    "ThetaEstimation": 297.639712,
+    "Theta": 1861,
+    "ThetaEstimation": 46.902478,
     "ThetaEstimationGenerateRRR": [
-      135.485205
+      42.006377
     ],
     "ThetaEstimationMostInfluential": [
-      162.139454
+      4.88977
     ],
     "ThetaPrimeDeltas": [
-      3291
+      815
     ],
     "Total": 0.0
   },
@@ -3317,9 +3350,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 112.853801,
+    "GenerateRRRSets": 52.707226,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -3328,27 +3361,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4446,
-    "ThetaEstimation": 304.813702,
+    "Theta": 1685,
+    "ThetaEstimation": 58.801856,
     "ThetaEstimationGenerateRRR": [
-      149.986679
+      53.875197
     ],
     "ThetaEstimationMostInfluential": [
-      154.815848
+      4.919412
     ],
     "ThetaPrimeDeltas": [
-      3303
+      817
     ],
     "Total": 0.0
   },
@@ -3358,9 +3391,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 62.198845,
+    "GenerateRRRSets": 51.337438,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -3369,27 +3402,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4625,
-    "ThetaEstimation": 293.267945,
+    "Theta": 1765,
+    "ThetaEstimation": 43.194982,
     "ThetaEstimationGenerateRRR": [
-      116.724825
+      37.319337
     ],
     "ThetaEstimationMostInfluential": [
-      176.531461
+      5.869797
     ],
     "ThetaPrimeDeltas": [
-      3293
+      815
     ],
     "Total": 0.0
   },
@@ -3399,9 +3432,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 106.920735,
+    "GenerateRRRSets": 73.996627,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -3410,27 +3443,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4693,
-    "ThetaEstimation": 329.815466,
+    "Theta": 1830,
+    "ThetaEstimation": 56.167799,
     "ThetaEstimationGenerateRRR": [
-      156.503112
+      51.236868
     ],
     "ThetaEstimationMostInfluential": [
-      173.302709
+      4.924144
     ],
     "ThetaPrimeDeltas": [
-      3313
+      819
     ],
     "Total": 0.0
   },
@@ -3440,9 +3473,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 111.44007,
+    "GenerateRRRSets": 77.931403,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -3451,27 +3484,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4613,
-    "ThetaEstimation": 296.598872,
+    "Theta": 1709,
+    "ThetaEstimation": 65.545246,
     "ThetaEstimationGenerateRRR": [
-      156.444096
+      59.964808
     ],
     "ThetaEstimationMostInfluential": [
-      140.144652
+      5.571808
     ],
     "ThetaPrimeDeltas": [
-      3300
+      816
     ],
     "Total": 0.0
   },
@@ -3481,9 +3514,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 61.868505999999996,
+    "GenerateRRRSets": 52.965055,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -3492,27 +3525,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4061,
-    "ThetaEstimation": 411.035358,
+    "Theta": 1464,
+    "ThetaEstimation": 87.605245,
     "ThetaEstimationGenerateRRR": [
-      340.066526
+      82.480874
     ],
     "ThetaEstimationMostInfluential": [
-      70.959042
+      5.116753
     ],
     "ThetaPrimeDeltas": [
-      3290
+      814
     ],
     "Total": 0.0
   },
@@ -3522,9 +3555,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 90.192844,
+    "GenerateRRRSets": 50.373185,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -3533,27 +3566,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4778,
-    "ThetaEstimation": 406.003584,
+    "Theta": 1971,
+    "ThetaEstimation": 42.808025,
     "ThetaEstimationGenerateRRR": [
-      97.716945
+      37.743696
     ],
     "ThetaEstimationMostInfluential": [
-      308.276255
+      5.057467
     ],
     "ThetaPrimeDeltas": [
-      3290
+      814
     ],
     "Total": 0.0
   },
@@ -3563,9 +3596,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 87.469907,
+    "GenerateRRRSets": 59.969203,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -3574,27 +3607,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4688,
-    "ThetaEstimation": 269.901236,
+    "Theta": 1796,
+    "ThetaEstimation": 54.387423,
     "ThetaEstimationGenerateRRR": [
-      156.142048
+      50.041392
     ],
     "ThetaEstimationMostInfluential": [
-      113.749594
+      4.332619
     ],
     "ThetaPrimeDeltas": [
-      3304
+      817
     ],
     "Total": 0.0
   },
@@ -3604,9 +3637,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 188.776102,
+    "GenerateRRRSets": 51.082984,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -3615,27 +3648,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 5654,
-    "ThetaEstimation": 292.53261,
+    "Theta": 2290,
+    "ThetaEstimation": 36.612378,
     "ThetaEstimationGenerateRRR": [
-      91.260054
+      32.447723
     ],
     "ThetaEstimationMostInfluential": [
-      201.262289
+      4.157468
     ],
     "ThetaPrimeDeltas": [
-      3310
+      818
     ],
     "Total": 0.0
   },
@@ -3645,9 +3678,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 153.22396,
+    "GenerateRRRSets": 95.268976,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -3656,27 +3689,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4161,
-    "ThetaEstimation": 497.640976,
+    "Theta": 1502,
+    "ThetaEstimation": 155.289846,
     "ThetaEstimationGenerateRRR": [
-      407.338409
+      149.728772
     ],
     "ThetaEstimationMostInfluential": [
-      90.28976
+      5.551795
     ],
     "ThetaPrimeDeltas": [
-      3314
+      819
     ],
     "Total": 0.0
   },
@@ -3686,9 +3719,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 75.723301,
+    "GenerateRRRSets": 54.79914,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -3697,27 +3730,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4533,
-    "ThetaEstimation": 413.746754,
+    "Theta": 1855,
+    "ThetaEstimation": 46.161304,
     "ThetaEstimationGenerateRRR": [
-      120.102767
+      41.045773
     ],
     "ThetaEstimationMostInfluential": [
-      293.63038
+      5.104232
     ],
     "ThetaPrimeDeltas": [
-      3301
+      817
     ],
     "Total": 0.0
   },
@@ -3727,9 +3760,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 122.633471,
+    "GenerateRRRSets": 59.53268,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -3738,27 +3771,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4538,
-    "ThetaEstimation": 319.722163,
+    "Theta": 1765,
+    "ThetaEstimation": 57.352157,
     "ThetaEstimationGenerateRRR": [
-      128.405446
+      51.538729
     ],
     "ThetaEstimationMostInfluential": [
-      191.306441
+      5.807045
     ],
     "ThetaPrimeDeltas": [
-      3293
+      815
     ],
     "Total": 0.0
   },
@@ -3768,9 +3801,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 79.661046,
+    "GenerateRRRSets": 49.511174,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -3779,27 +3812,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4662,
-    "ThetaEstimation": 599.774188,
+    "Theta": 2199,
+    "ThetaEstimation": 38.044444,
     "ThetaEstimationGenerateRRR": [
-      103.964914
+      33.257995
     ],
     "ThetaEstimationMostInfluential": [
-      495.797524
+      4.77929
     ],
     "ThetaPrimeDeltas": [
-      3297
+      816
     ],
     "Total": 0.0
   },
@@ -3809,9 +3842,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 110.905026,
+    "GenerateRRRSets": 58.68261,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -3820,27 +3853,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4629,
-    "ThetaEstimation": 317.664291,
+    "Theta": 1813,
+    "ThetaEstimation": 55.45853,
     "ThetaEstimationGenerateRRR": [
-      151.914133
+      50.023085
     ],
     "ThetaEstimationMostInfluential": [
-      165.737885
+      5.428483
     ],
     "ThetaPrimeDeltas": [
-      3296
+      815
     ],
     "Total": 0.0
   },
@@ -3850,9 +3883,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 96.585986,
+    "GenerateRRRSets": 57.441074,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -3861,27 +3894,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 5405,
-    "ThetaEstimation": 412.036815,
+    "Theta": 2364,
+    "ThetaEstimation": 38.452608,
     "ThetaEstimationGenerateRRR": [
-      89.616952
+      33.837653
     ],
     "ThetaEstimationMostInfluential": [
-      322.408356
+      4.605007
     ],
     "ThetaPrimeDeltas": [
-      3300
+      816
     ],
     "Total": 0.0
   },
@@ -3891,9 +3924,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 98.100554,
+    "GenerateRRRSets": 50.569672,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -3902,27 +3935,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4338,
-    "ThetaEstimation": 341.555115,
+    "Theta": 1712,
+    "ThetaEstimation": 55.016498,
     "ThetaEstimationGenerateRRR": [
-      144.262555
+      50.225567
     ],
     "ThetaEstimationMostInfluential": [
-      197.281282
+      4.783703
     ],
     "ThetaPrimeDeltas": [
-      3301
+      817
     ],
     "Total": 0.0
   },
@@ -3932,9 +3965,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 90.629352,
+    "GenerateRRRSets": 54.128025,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -3943,27 +3976,30 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 5105,
-    "ThetaEstimation": 1869.659945,
+    "Theta": 3821,
+    "ThetaEstimation": 44.544588,
     "ThetaEstimationGenerateRRR": [
-      70.832147
+      16.623135,
+      19.158849
     ],
     "ThetaEstimationMostInfluential": [
-      1798.814928
+      3.495719,
+      5.25832
     ],
     "ThetaPrimeDeltas": [
-      3298
+      816,
+      816
     ],
     "Total": 0.0
   },
@@ -3973,9 +4009,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 94.32195,
+    "GenerateRRRSets": 54.070364,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -3984,27 +4020,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4129,
-    "ThetaEstimation": 339.027403,
+    "Theta": 1503,
+    "ThetaEstimation": 90.207375,
     "ThetaEstimationGenerateRRR": [
-      225.895716
+      84.24086
     ],
     "ThetaEstimationMostInfluential": [
-      113.121177
+      5.956124
     ],
     "ThetaPrimeDeltas": [
-      3305
+      817
     ],
     "Total": 0.0
   },
@@ -4014,9 +4050,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 62.936411,
+    "GenerateRRRSets": 74.296032,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -4025,27 +4061,30 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 5522,
-    "ThetaEstimation": 1500.557011,
+    "Theta": 3515,
+    "ThetaEstimation": 72.849083,
     "ThetaEstimationGenerateRRR": [
-      43.778842
+      27.73487,
+      35.238801
     ],
     "ThetaEstimationMostInfluential": [
-      1456.766473
+      5.225877,
+      4.633638
     ],
     "ThetaPrimeDeltas": [
-      3290
+      814,
+      815
     ],
     "Total": 0.0
   },
@@ -4055,9 +4094,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 74.767044,
+    "GenerateRRRSets": 33.740253,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -4066,27 +4105,30 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 5193,
-    "ThetaEstimation": 1864.407679,
+    "Theta": 3039,
+    "ThetaEstimation": 64.89359,
     "ThetaEstimationGenerateRRR": [
-      93.889555
+      29.283855,
+      26.384613
     ],
     "ThetaEstimationMostInfluential": [
-      1770.505849
+      3.894923,
+      5.317959
     ],
     "ThetaPrimeDeltas": [
-      3304
+      817,
+      818
     ],
     "Total": 0.0
   },
@@ -4096,9 +4138,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 71.737148,
+    "GenerateRRRSets": 54.646446,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -4107,27 +4149,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4595,
-    "ThetaEstimation": 335.558504,
+    "Theta": 1841,
+    "ThetaEstimation": 45.276806,
     "ThetaEstimationGenerateRRR": [
-      130.612515
+      40.171896
     ],
     "ThetaEstimationMostInfluential": [
-      204.932586
+      5.098205
     ],
     "ThetaPrimeDeltas": [
-      3290
+      814
     ],
     "Total": 0.0
   },
@@ -4137,9 +4179,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 98.710368,
+    "GenerateRRRSets": 79.527873,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -4148,27 +4190,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 5234,
-    "ThetaEstimation": 557.451563,
+    "Theta": 2370,
+    "ThetaEstimation": 45.969247,
     "ThetaEstimationGenerateRRR": [
-      109.248043
+      41.30625
     ],
     "ThetaEstimationMostInfluential": [
-      448.190197
+      4.656263
     ],
     "ThetaPrimeDeltas": [
-      3314
+      819
     ],
     "Total": 0.0
   },
@@ -4178,9 +4220,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 51.115675,
+    "GenerateRRRSets": 42.494389,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -4189,27 +4231,30 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 6828,
-    "ThetaEstimation": 1364.479636,
+    "Theta": 5553,
+    "ThetaEstimation": 40.080408,
     "ThetaEstimationGenerateRRR": [
-      46.919548
+      12.892799,
+      19.183891
     ],
     "ThetaEstimationMostInfluential": [
-      1317.546711
+      2.605969,
+      5.38456
     ],
     "ThetaPrimeDeltas": [
-      3290
+      814,
+      815
     ],
     "Total": 0.0
   },
@@ -4219,9 +4264,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 63.635464,
+    "GenerateRRRSets": 42.657798,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -4230,27 +4275,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4044,
-    "ThetaEstimation": 232.183076,
+    "Theta": 1416,
+    "ThetaEstimation": 70.461367,
     "ThetaEstimationGenerateRRR": [
-      196.554543
+      65.438046
     ],
     "ThetaEstimationMostInfluential": [
-      35.616858
+      5.016336
     ],
     "ThetaPrimeDeltas": [
-      3314
+      819
     ],
     "Total": 0.0
   },
@@ -4260,9 +4305,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 92.703883,
+    "GenerateRRRSets": 47.560751,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -4271,27 +4316,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4894,
-    "ThetaEstimation": 306.357574,
+    "Theta": 1910,
+    "ThetaEstimation": 39.023155,
     "ThetaEstimationGenerateRRR": [
-      98.433408
+      34.888993
     ],
     "ThetaEstimationMostInfluential": [
-      207.913913
+      4.126323
     ],
     "ThetaPrimeDeltas": [
-      3296
+      815
     ],
     "Total": 0.0
   },
@@ -4301,9 +4346,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 85.96483,
+    "GenerateRRRSets": 48.765682,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -4312,27 +4357,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4203,
-    "ThetaEstimation": 584.839772,
+    "Theta": 1910,
+    "ThetaEstimation": 40.396702,
     "ThetaEstimationGenerateRRR": [
-      121.302294
+      36.125416
     ],
     "ThetaEstimationMostInfluential": [
-      463.525713
+      4.263534
     ],
     "ThetaPrimeDeltas": [
-      3295
+      815
     ],
     "Total": 0.0
   },
@@ -4342,9 +4387,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 62.496864,
+    "GenerateRRRSets": 49.095938,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -4353,27 +4398,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4035,
-    "ThetaEstimation": 501.36217,
+    "Theta": 1419,
+    "ThetaEstimation": 69.900832,
     "ThetaEstimationGenerateRRR": [
-      455.343963
+      64.157973
     ],
     "ThetaEstimationMostInfluential": [
-      46.00094
+      5.733866
     ],
     "ThetaPrimeDeltas": [
-      3314
+      819
     ],
     "Total": 0.0
   },
@@ -4383,9 +4428,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 81.789238,
+    "GenerateRRRSets": 42.162008,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -4394,27 +4439,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4025,
-    "ThetaEstimation": 244.962681,
+    "Theta": 1412,
+    "ThetaEstimation": 77.305135,
     "ThetaEstimationGenerateRRR": [
-      215.3113
+      71.462514
     ],
     "ThetaEstimationMostInfluential": [
-      29.640169
+      5.83579
     ],
     "ThetaPrimeDeltas": [
-      3314
+      819
     ],
     "Total": 0.0
   },
@@ -4424,9 +4469,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 67.079965,
+    "GenerateRRRSets": 55.222363,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -4435,27 +4480,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4620,
-    "ThetaEstimation": 246.990851,
+    "Theta": 2556,
+    "ThetaEstimation": 31.416409,
     "ThetaEstimationGenerateRRR": [
-      74.864399
+      27.239846
     ],
     "ThetaEstimationMostInfluential": [
-      172.115448
+      4.169441
     ],
     "ThetaPrimeDeltas": [
-      3292
+      815
     ],
     "Total": 0.0
   },
@@ -4465,9 +4510,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 101.891286,
+    "GenerateRRRSets": 49.78488,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -4476,27 +4521,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4648,
-    "ThetaEstimation": 422.595065,
+    "Theta": 1728,
+    "ThetaEstimation": 47.507263,
     "ThetaEstimationGenerateRRR": [
-      249.946726
+      42.323606
     ],
     "ThetaEstimationMostInfluential": [
-      172.635099
+      5.175907
     ],
     "ThetaPrimeDeltas": [
-      3296
+      816
     ],
     "Total": 0.0
   },
@@ -4506,9 +4551,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 63.662161,
+    "GenerateRRRSets": 34.977131,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -4517,27 +4562,30 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 5623,
-    "ThetaEstimation": 1528.491131,
+    "Theta": 3417,
+    "ThetaEstimation": 42.734878,
     "ThetaEstimationGenerateRRR": [
-      73.328271
+      17.5469,
+      17.081993
     ],
     "ThetaEstimationMostInfluential": [
-      1455.145793
+      3.216478,
+      4.878308
     ],
     "ThetaPrimeDeltas": [
-      3297
+      816,
+      816
     ],
     "Total": 0.0
   },
@@ -4547,9 +4595,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 73.44227,
+    "GenerateRRRSets": 36.349148,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -4558,27 +4606,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4784,
-    "ThetaEstimation": 627.838899,
+    "Theta": 2191,
+    "ThetaEstimation": 33.220168,
     "ThetaEstimationGenerateRRR": [
-      156.264361
+      28.266876
     ],
     "ThetaEstimationMostInfluential": [
-      471.559355
+      4.947114
     ],
     "ThetaPrimeDeltas": [
-      3311
+      818
     ],
     "Total": 0.0
   },
@@ -4588,9 +4636,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 74.834045,
+    "GenerateRRRSets": 47.758494,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -4599,27 +4647,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 5084,
-    "ThetaEstimation": 699.546862,
+    "Theta": 2728,
+    "ThetaEstimation": 26.963157,
     "ThetaEstimationGenerateRRR": [
-      97.014467
+      21.692634
     ],
     "ThetaEstimationMostInfluential": [
-      602.519047
+      5.264108
     ],
     "ThetaPrimeDeltas": [
-      3294
+      815
     ],
     "Total": 0.0
   },
@@ -4629,9 +4677,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 117.311238,
+    "GenerateRRRSets": 72.333633,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -4640,27 +4688,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 5392,
-    "ThetaEstimation": 547.409444,
+    "Theta": 2438,
+    "ThetaEstimation": 59.468832,
     "ThetaEstimationGenerateRRR": [
-      149.426045
+      54.791785
     ],
     "ThetaEstimationMostInfluential": [
-      397.969474
+      4.670365
     ],
     "ThetaPrimeDeltas": [
-      3302
+      817
     ],
     "Total": 0.0
   },
@@ -4670,9 +4718,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 19.410255,
+    "GenerateRRRSets": 20.263466,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -4681,30 +4729,36 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 10633,
-    "ThetaEstimation": 2527.796358,
+    "Theta": 12168,
+    "ThetaEstimation": 37.476243,
     "ThetaEstimationGenerateRRR": [
-      6.513542,
-      18.392077
+      2.150067,
+      1.876464,
+      8.273966,
+      9.372976
     ],
     "ThetaEstimationMostInfluential": [
-      827.408139,
-      1675.462625
+      4.561003,
+      2.757716,
+      2.442196,
+      6.025163
     ],
     "ThetaPrimeDeltas": [
-      3303,
-      3303
+      817,
+      817,
+      1635,
+      3269
     ],
     "Total": 0.0
   },
@@ -4714,9 +4768,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 81.418352,
+    "GenerateRRRSets": 44.952152,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -4725,27 +4779,27 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4496,
-    "ThetaEstimation": 621.463569,
+    "Theta": 2001,
+    "ThetaEstimation": 49.806057,
     "ThetaEstimationGenerateRRR": [
-      163.834013
+      45.83119
     ],
     "ThetaEstimationMostInfluential": [
-      457.617912
+      3.971067
     ],
     "ThetaPrimeDeltas": [
-      3314
+      819
     ],
     "Total": 0.0
   },
@@ -4755,9 +4809,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 45.878114,
+    "GenerateRRRSets": 45.67828,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -4766,27 +4820,30 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 4679,
-    "ThetaEstimation": 2027.68359,
+    "Theta": 3404,
+    "ThetaEstimation": 47.854237,
     "ThetaEstimationGenerateRRR": [
-      84.135128
+      19.780742,
+      19.500895
     ],
     "ThetaEstimationMostInfluential": [
-      1943.53715
+      3.49927,
+      5.062615
     ],
     "ThetaPrimeDeltas": [
-      3293
+      815,
+      815
     ],
     "Total": 0.0
   },
@@ -4796,9 +4853,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 61.194832,
+    "GenerateRRRSets": 58.445934,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -4807,27 +4864,30 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 5323,
-    "ThetaEstimation": 1830.820055,
+    "Theta": 4381,
+    "ThetaEstimation": 55.450101,
     "ThetaEstimationGenerateRRR": [
-      85.504481
+      21.988465,
+      22.77511
     ],
     "ThetaEstimationMostInfluential": [
-      1745.304077
+      5.411842,
+      5.263013
     ],
     "ThetaPrimeDeltas": [
-      3313
+      819,
+      819
     ],
     "Total": 0.0
   },
@@ -4837,9 +4897,9 @@
     "DiffusionModel": "IC",
     "Epsilon": 0.25,
     "FindMostInfluentialSet": 0.0,
-    "GenerateRRRSets": 85.660868,
+    "GenerateRRRSets": 42.652467,
     "Input": "NewExpts/Input/BerkStan.txt",
-    "K": 10,
+    "K": 1,
     "L": 1,
     "NumGPUWalkWorkers": 0,
     "NumThreads": 24,
@@ -4848,27 +4908,30 @@
     "Pivoting": [],
     "RRRSetSizeBytes": 0,
     "Seeds": [
-      9030,
-      94842,
-      562579,
-      304864,
-      289711,
-      322711,
-      222419,
-      92680,
-      87510,
-      320575
+      266334,
+      218426,
+      497147,
+      638760,
+      29260,
+      548312,
+      474839,
+      670612,
+      573209,
+      530719
     ],
-    "Theta": 5383,
-    "ThetaEstimation": 1846.433431,
+    "Theta": 2870,
+    "ThetaEstimation": 64.732959,
     "ThetaEstimationGenerateRRR": [
-      125.833948
+      28.014234,
+      26.369865
     ],
     "ThetaEstimationMostInfluential": [
-      1720.585385
+      3.916791,
+      6.424346
     ],
     "ThetaPrimeDeltas": [
-      3313
+      819,
+      819
     ],
     "Total": 0.0
   }

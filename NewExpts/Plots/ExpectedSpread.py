@@ -50,7 +50,7 @@ for s in seedSize:
     e2.append(std)
 
 ax.errorbar(seedSize, y1, e1, marker='^', label='Imm')
-ax.errorbar(seedSize, y2, e2, marker='o', label='Grappolo')
+#ax.errorbar(seedSize, y2, e2, marker='o', label='Grappolo')
 
 filename = '../Simulator/Louvain-Imm/Metis/' + f + '_metis_'
 
@@ -68,7 +68,7 @@ ax.legend()
 ax.set_xlabel('No. Seeds')
 ax.set_ylabel('Expected influence')
 ax.set_title('BerkStan: n = 685K, m = 7.6M, mod = 0.94')
-plt.savefig('BerkStan_ExpectedInfluence.png', dpi = 500)
+plt.savefig('BerkStan_ExpectedInfluenceAdjusted.png', dpi = 500)
 
 
 
